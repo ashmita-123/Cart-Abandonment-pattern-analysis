@@ -1,0 +1,2501 @@
+customer_id,customer_segment,device_type,acquisition_channel,region,age_group,loyalty_member
+CUST00001,Returning,Mobile,Organic Search,East,35-44,No
+CUST00002,Returning,Desktop,Email,North,25-34,No
+CUST00003,Loyal,Tablet,Direct,North,35-44,Yes
+CUST00004,Returning,Desktop,Organic Search,South,45-54,Yes
+CUST00005,New,Mobile,Organic Search,North,18-24,No
+CUST00006,Loyal,Mobile,Social Media,East,25-34,Yes
+CUST00007,Returning,Tablet,Direct,West,25-34,Yes
+CUST00008,Loyal,Tablet,Email,North,18-24,No
+CUST00009,New,Mobile,Email,Central,25-34,No
+CUST00010,Returning,Desktop,Paid Search,North,18-24,Yes
+CUST00011,New,Mobile,Paid Search,South,35-44,No
+CUST00012,Loyal,Mobile,Social Media,South,18-24,No
+CUST00013,Returning,Mobile,Organic Search,West,25-34,No
+CUST00014,Loyal,Mobile,Direct,Central,35-44,Yes
+CUST00015,Returning,Mobile,Organic Search,South,25-34,Yes
+CUST00016,New,Desktop,Paid Search,Central,25-34,Yes
+CUST00017,Returning,Mobile,Social Media,South,35-44,No
+CUST00018,New,Mobile,Social Media,South,55+,No
+CUST00019,Loyal,Mobile,Email,East,25-34,Yes
+CUST00020,Returning,Mobile,Social Media,North,18-24,Yes
+CUST00021,Returning,Mobile,Direct,East,18-24,Yes
+CUST00022,New,Mobile,Direct,South,55+,Yes
+CUST00023,Loyal,Mobile,Direct,South,35-44,No
+CUST00024,Loyal,Desktop,Email,North,35-44,Yes
+CUST00025,Returning,Desktop,Email,West,35-44,Yes
+CUST00026,New,Mobile,Email,East,18-24,No
+CUST00027,Returning,Desktop,Social Media,South,25-34,Yes
+CUST00028,New,Desktop,Paid Search,South,35-44,Yes
+CUST00029,New,Desktop,Email,North,45-54,No
+CUST00030,Returning,Desktop,Organic Search,South,25-34,Yes
+CUST00031,Returning,Desktop,Organic Search,South,35-44,Yes
+CUST00032,Loyal,Desktop,Direct,North,18-24,No
+CUST00033,New,Desktop,Organic Search,East,55+,No
+CUST00034,New,Mobile,Social Media,Central,25-34,Yes
+CUST00035,Returning,Tablet,Email,North,35-44,No
+CUST00036,New,Mobile,Organic Search,South,25-34,Yes
+CUST00037,New,Desktop,Direct,Central,35-44,No
+CUST00038,Returning,Mobile,Organic Search,West,35-44,No
+CUST00039,New,Mobile,Direct,South,25-34,No
+CUST00040,Returning,Mobile,Direct,East,45-54,Yes
+CUST00041,Returning,Mobile,Paid Search,Central,45-54,No
+CUST00042,Loyal,Mobile,Organic Search,East,45-54,No
+CUST00043,Returning,Mobile,Paid Search,North,25-34,Yes
+CUST00044,New,Mobile,Paid Search,West,35-44,No
+CUST00045,Loyal,Mobile,Paid Search,East,25-34,No
+CUST00046,Loyal,Mobile,Referral,North,35-44,No
+CUST00047,Returning,Tablet,Organic Search,Central,25-34,No
+CUST00048,New,Mobile,Direct,East,35-44,No
+CUST00049,Returning,Mobile,Organic Search,West,18-24,No
+CUST00050,New,Mobile,Referral,East,25-34,No
+CUST00051,New,Mobile,Organic Search,East,18-24,No
+CUST00052,New,Mobile,Social Media,West,25-34,No
+CUST00053,Loyal,Desktop,Social Media,North,18-24,No
+CUST00054,Returning,Tablet,Organic Search,South,25-34,No
+CUST00055,Returning,Mobile,Direct,South,35-44,No
+CUST00056,Loyal,Desktop,Paid Search,South,25-34,No
+CUST00057,Returning,Mobile,Social Media,South,18-24,Yes
+CUST00058,Returning,Mobile,Social Media,West,35-44,No
+CUST00059,New,Mobile,Email,Central,45-54,Yes
+CUST00060,New,Mobile,Organic Search,East,45-54,Yes
+CUST00061,Returning,Mobile,Organic Search,South,45-54,No
+CUST00062,Returning,Desktop,Organic Search,East,55+,No
+CUST00063,Returning,Desktop,Paid Search,South,35-44,No
+CUST00064,Returning,Mobile,Organic Search,East,55+,Yes
+CUST00065,Returning,Mobile,Referral,West,55+,Yes
+CUST00066,Returning,Mobile,Social Media,West,25-34,Yes
+CUST00067,Returning,Mobile,Email,South,45-54,No
+CUST00068,New,Mobile,Paid Search,East,35-44,Yes
+CUST00069,New,Desktop,Paid Search,West,35-44,No
+CUST00070,Returning,Tablet,Social Media,West,45-54,Yes
+CUST00071,New,Mobile,Paid Search,South,25-34,No
+CUST00072,Returning,Mobile,Paid Search,Central,25-34,No
+CUST00073,Loyal,Desktop,Social Media,South,35-44,No
+CUST00074,New,Desktop,Social Media,North,35-44,No
+CUST00075,New,Mobile,Referral,West,45-54,Yes
+CUST00076,New,Mobile,Organic Search,Central,45-54,No
+CUST00077,New,Desktop,Social Media,East,35-44,No
+CUST00078,Returning,Desktop,Organic Search,East,55+,Yes
+CUST00079,Returning,Mobile,Paid Search,West,18-24,No
+CUST00080,Loyal,Desktop,Direct,West,55+,No
+CUST00081,Returning,Mobile,Organic Search,North,18-24,No
+CUST00082,Returning,Desktop,Social Media,Central,25-34,No
+CUST00083,Loyal,Mobile,Paid Search,South,18-24,No
+CUST00084,New,Mobile,Organic Search,West,25-34,No
+CUST00085,New,Mobile,Referral,West,25-34,Yes
+CUST00086,New,Mobile,Paid Search,South,18-24,Yes
+CUST00087,Returning,Mobile,Direct,West,35-44,Yes
+CUST00088,Returning,Mobile,Paid Search,Central,35-44,No
+CUST00089,New,Mobile,Referral,North,18-24,No
+CUST00090,Returning,Mobile,Paid Search,North,35-44,Yes
+CUST00091,New,Desktop,Paid Search,Central,18-24,No
+CUST00092,Returning,Desktop,Direct,West,18-24,Yes
+CUST00093,Returning,Desktop,Paid Search,North,18-24,No
+CUST00094,Returning,Mobile,Paid Search,North,35-44,Yes
+CUST00095,New,Mobile,Referral,West,35-44,No
+CUST00096,Returning,Desktop,Social Media,East,35-44,No
+CUST00097,New,Mobile,Email,West,35-44,No
+CUST00098,New,Mobile,Email,East,35-44,Yes
+CUST00099,New,Tablet,Direct,South,35-44,No
+CUST00100,Loyal,Tablet,Direct,East,55+,No
+CUST00101,Loyal,Mobile,Social Media,West,25-34,Yes
+CUST00102,Returning,Desktop,Paid Search,Central,18-24,No
+CUST00103,New,Mobile,Organic Search,North,18-24,Yes
+CUST00104,Loyal,Desktop,Email,South,35-44,Yes
+CUST00105,Returning,Mobile,Direct,South,25-34,No
+CUST00106,Returning,Mobile,Social Media,West,18-24,Yes
+CUST00107,Returning,Mobile,Organic Search,South,45-54,No
+CUST00108,New,Mobile,Paid Search,West,55+,No
+CUST00109,New,Desktop,Social Media,South,25-34,Yes
+CUST00110,Loyal,Mobile,Direct,South,25-34,Yes
+CUST00111,Returning,Desktop,Organic Search,Central,25-34,No
+CUST00112,New,Desktop,Email,Central,25-34,No
+CUST00113,New,Mobile,Direct,East,45-54,No
+CUST00114,Returning,Desktop,Referral,West,35-44,Yes
+CUST00115,New,Mobile,Organic Search,North,18-24,No
+CUST00116,Loyal,Mobile,Referral,West,25-34,No
+CUST00117,Returning,Mobile,Email,South,18-24,Yes
+CUST00118,Returning,Desktop,Direct,Central,25-34,No
+CUST00119,Returning,Desktop,Organic Search,West,25-34,No
+CUST00120,Returning,Desktop,Social Media,Central,35-44,No
+CUST00121,Returning,Desktop,Email,Central,25-34,Yes
+CUST00122,Returning,Tablet,Paid Search,Central,45-54,No
+CUST00123,New,Mobile,Social Media,East,18-24,Yes
+CUST00124,Returning,Tablet,Social Media,West,35-44,No
+CUST00125,New,Mobile,Social Media,East,18-24,Yes
+CUST00126,Returning,Mobile,Organic Search,East,25-34,Yes
+CUST00127,New,Mobile,Social Media,East,45-54,No
+CUST00128,New,Mobile,Organic Search,North,35-44,Yes
+CUST00129,New,Mobile,Direct,East,18-24,No
+CUST00130,Returning,Mobile,Referral,West,25-34,Yes
+CUST00131,New,Mobile,Paid Search,Central,35-44,No
+CUST00132,Loyal,Mobile,Organic Search,Central,45-54,Yes
+CUST00133,Returning,Desktop,Organic Search,Central,35-44,No
+CUST00134,New,Desktop,Social Media,East,18-24,No
+CUST00135,Returning,Mobile,Direct,South,25-34,No
+CUST00136,New,Mobile,Social Media,South,18-24,Yes
+CUST00137,Loyal,Mobile,Organic Search,East,18-24,Yes
+CUST00138,Returning,Mobile,Organic Search,Central,35-44,No
+CUST00139,Loyal,Desktop,Organic Search,North,35-44,Yes
+CUST00140,New,Mobile,Direct,Central,18-24,Yes
+CUST00141,Returning,Desktop,Email,East,35-44,No
+CUST00142,Returning,Desktop,Social Media,South,35-44,No
+CUST00143,Loyal,Mobile,Paid Search,East,35-44,No
+CUST00144,Returning,Desktop,Referral,Central,25-34,No
+CUST00145,Returning,Mobile,Paid Search,South,25-34,No
+CUST00146,New,Desktop,Direct,East,18-24,No
+CUST00147,New,Desktop,Direct,West,25-34,No
+CUST00148,Returning,Desktop,Social Media,West,25-34,No
+CUST00149,Returning,Desktop,Direct,East,25-34,Yes
+CUST00150,New,Desktop,Paid Search,East,18-24,No
+CUST00151,Loyal,Tablet,Email,Central,18-24,No
+CUST00152,Loyal,Mobile,Organic Search,Central,45-54,No
+CUST00153,New,Desktop,Social Media,North,35-44,Yes
+CUST00154,Returning,Desktop,Organic Search,Central,25-34,Yes
+CUST00155,New,Mobile,Organic Search,South,55+,No
+CUST00156,Returning,Desktop,Organic Search,East,25-34,No
+CUST00157,New,Mobile,Paid Search,South,25-34,No
+CUST00158,Returning,Mobile,Social Media,East,45-54,No
+CUST00159,Returning,Mobile,Social Media,Central,25-34,No
+CUST00160,Returning,Mobile,Paid Search,West,25-34,Yes
+CUST00161,New,Desktop,Referral,East,25-34,Yes
+CUST00162,Loyal,Mobile,Referral,West,25-34,Yes
+CUST00163,New,Mobile,Organic Search,South,35-44,No
+CUST00164,New,Mobile,Paid Search,Central,25-34,No
+CUST00165,Returning,Mobile,Email,North,25-34,No
+CUST00166,New,Desktop,Direct,East,25-34,No
+CUST00167,Loyal,Desktop,Paid Search,Central,25-34,No
+CUST00168,Loyal,Mobile,Direct,South,25-34,No
+CUST00169,New,Mobile,Organic Search,North,45-54,No
+CUST00170,Loyal,Mobile,Paid Search,North,35-44,No
+CUST00171,New,Mobile,Direct,Central,25-34,No
+CUST00172,Returning,Mobile,Email,West,35-44,Yes
+CUST00173,New,Mobile,Direct,East,18-24,No
+CUST00174,Loyal,Mobile,Organic Search,East,25-34,Yes
+CUST00175,New,Mobile,Organic Search,South,25-34,Yes
+CUST00176,New,Mobile,Organic Search,Central,25-34,No
+CUST00177,Returning,Mobile,Organic Search,South,35-44,No
+CUST00178,Loyal,Desktop,Organic Search,South,55+,Yes
+CUST00179,Loyal,Desktop,Social Media,West,25-34,Yes
+CUST00180,Returning,Mobile,Social Media,North,25-34,No
+CUST00181,Loyal,Desktop,Email,East,35-44,Yes
+CUST00182,Loyal,Desktop,Paid Search,West,25-34,Yes
+CUST00183,Returning,Mobile,Organic Search,South,18-24,No
+CUST00184,New,Mobile,Email,Central,55+,No
+CUST00185,Returning,Mobile,Organic Search,Central,35-44,No
+CUST00186,Returning,Desktop,Direct,Central,55+,No
+CUST00187,New,Mobile,Organic Search,East,25-34,No
+CUST00188,New,Desktop,Social Media,Central,18-24,Yes
+CUST00189,Returning,Mobile,Direct,West,25-34,No
+CUST00190,New,Mobile,Social Media,South,45-54,No
+CUST00191,Loyal,Tablet,Email,Central,18-24,No
+CUST00192,New,Mobile,Email,Central,18-24,Yes
+CUST00193,New,Desktop,Organic Search,South,18-24,Yes
+CUST00194,Loyal,Tablet,Email,West,35-44,Yes
+CUST00195,New,Desktop,Direct,North,35-44,Yes
+CUST00196,New,Mobile,Referral,South,35-44,Yes
+CUST00197,Returning,Desktop,Social Media,North,18-24,No
+CUST00198,Loyal,Mobile,Paid Search,North,35-44,Yes
+CUST00199,New,Mobile,Direct,North,25-34,No
+CUST00200,New,Desktop,Social Media,North,18-24,No
+CUST00201,Returning,Desktop,Paid Search,East,25-34,No
+CUST00202,Loyal,Mobile,Organic Search,Central,25-34,No
+CUST00203,Returning,Mobile,Organic Search,East,25-34,No
+CUST00204,New,Desktop,Social Media,Central,55+,Yes
+CUST00205,New,Desktop,Organic Search,East,25-34,No
+CUST00206,New,Mobile,Organic Search,North,25-34,Yes
+CUST00207,New,Desktop,Organic Search,North,35-44,Yes
+CUST00208,Returning,Mobile,Referral,North,35-44,Yes
+CUST00209,New,Mobile,Organic Search,North,18-24,No
+CUST00210,Returning,Desktop,Organic Search,Central,35-44,Yes
+CUST00211,Returning,Tablet,Social Media,East,25-34,No
+CUST00212,Returning,Mobile,Paid Search,Central,25-34,No
+CUST00213,New,Mobile,Referral,South,35-44,No
+CUST00214,Loyal,Mobile,Direct,South,25-34,Yes
+CUST00215,Returning,Desktop,Paid Search,East,25-34,No
+CUST00216,Returning,Mobile,Social Media,East,18-24,No
+CUST00217,New,Mobile,Paid Search,West,25-34,No
+CUST00218,New,Tablet,Organic Search,West,25-34,No
+CUST00219,Loyal,Mobile,Paid Search,South,45-54,No
+CUST00220,Returning,Mobile,Organic Search,Central,25-34,No
+CUST00221,New,Mobile,Organic Search,North,45-54,No
+CUST00222,Returning,Desktop,Social Media,South,25-34,No
+CUST00223,Returning,Mobile,Organic Search,East,45-54,Yes
+CUST00224,Loyal,Mobile,Organic Search,South,18-24,Yes
+CUST00225,New,Mobile,Social Media,East,25-34,Yes
+CUST00226,Loyal,Desktop,Social Media,South,18-24,Yes
+CUST00227,New,Desktop,Organic Search,West,18-24,Yes
+CUST00228,Returning,Mobile,Organic Search,North,45-54,No
+CUST00229,Returning,Mobile,Organic Search,West,35-44,No
+CUST00230,New,Desktop,Paid Search,North,35-44,No
+CUST00231,New,Mobile,Direct,Central,25-34,No
+CUST00232,Returning,Mobile,Direct,Central,25-34,No
+CUST00233,Loyal,Mobile,Paid Search,West,35-44,Yes
+CUST00234,Returning,Mobile,Paid Search,West,45-54,No
+CUST00235,Loyal,Mobile,Direct,North,35-44,Yes
+CUST00236,Loyal,Mobile,Email,South,35-44,No
+CUST00237,Returning,Mobile,Organic Search,East,25-34,No
+CUST00238,Loyal,Mobile,Organic Search,South,55+,No
+CUST00239,New,Desktop,Social Media,Central,18-24,Yes
+CUST00240,New,Mobile,Social Media,Central,25-34,No
+CUST00241,Loyal,Mobile,Organic Search,North,45-54,Yes
+CUST00242,Loyal,Desktop,Paid Search,West,18-24,Yes
+CUST00243,New,Mobile,Paid Search,West,18-24,Yes
+CUST00244,Returning,Desktop,Paid Search,South,25-34,Yes
+CUST00245,Returning,Mobile,Social Media,North,25-34,No
+CUST00246,Loyal,Desktop,Email,East,45-54,No
+CUST00247,Returning,Mobile,Social Media,South,45-54,Yes
+CUST00248,Returning,Mobile,Organic Search,East,25-34,No
+CUST00249,New,Mobile,Organic Search,Central,55+,No
+CUST00250,Returning,Mobile,Direct,North,35-44,No
+CUST00251,Returning,Mobile,Social Media,West,45-54,No
+CUST00252,Loyal,Desktop,Organic Search,East,25-34,No
+CUST00253,Returning,Desktop,Paid Search,East,25-34,No
+CUST00254,New,Mobile,Direct,Central,18-24,No
+CUST00255,New,Desktop,Direct,North,18-24,No
+CUST00256,Returning,Desktop,Direct,Central,35-44,Yes
+CUST00257,Loyal,Desktop,Email,Central,18-24,No
+CUST00258,New,Desktop,Social Media,East,25-34,Yes
+CUST00259,New,Desktop,Social Media,West,35-44,No
+CUST00260,Returning,Mobile,Organic Search,Central,18-24,Yes
+CUST00261,New,Desktop,Email,North,25-34,Yes
+CUST00262,Loyal,Desktop,Social Media,North,35-44,No
+CUST00263,New,Mobile,Organic Search,North,45-54,No
+CUST00264,New,Mobile,Direct,South,25-34,Yes
+CUST00265,Loyal,Mobile,Paid Search,Central,55+,Yes
+CUST00266,New,Tablet,Organic Search,Central,45-54,No
+CUST00267,New,Mobile,Paid Search,South,35-44,No
+CUST00268,New,Desktop,Direct,North,25-34,No
+CUST00269,New,Desktop,Direct,West,35-44,Yes
+CUST00270,New,Tablet,Social Media,East,45-54,No
+CUST00271,New,Mobile,Referral,South,25-34,No
+CUST00272,New,Desktop,Direct,East,55+,Yes
+CUST00273,New,Desktop,Direct,South,45-54,No
+CUST00274,Returning,Mobile,Direct,North,25-34,Yes
+CUST00275,Returning,Desktop,Paid Search,South,35-44,No
+CUST00276,Returning,Mobile,Direct,Central,25-34,No
+CUST00277,New,Desktop,Social Media,North,35-44,Yes
+CUST00278,Returning,Mobile,Direct,North,45-54,No
+CUST00279,Loyal,Mobile,Organic Search,North,18-24,No
+CUST00280,Loyal,Mobile,Direct,West,18-24,No
+CUST00281,New,Mobile,Referral,East,25-34,No
+CUST00282,New,Mobile,Paid Search,East,45-54,Yes
+CUST00283,New,Desktop,Referral,South,25-34,Yes
+CUST00284,New,Mobile,Paid Search,Central,45-54,No
+CUST00285,Returning,Mobile,Organic Search,East,25-34,Yes
+CUST00286,Returning,Desktop,Organic Search,West,25-34,Yes
+CUST00287,New,Desktop,Direct,South,45-54,No
+CUST00288,New,Mobile,Social Media,South,25-34,Yes
+CUST00289,Returning,Tablet,Paid Search,South,25-34,No
+CUST00290,New,Mobile,Email,South,18-24,No
+CUST00291,Loyal,Desktop,Paid Search,East,18-24,No
+CUST00292,New,Mobile,Social Media,West,18-24,Yes
+CUST00293,Loyal,Desktop,Direct,North,25-34,No
+CUST00294,New,Tablet,Email,East,35-44,No
+CUST00295,Loyal,Desktop,Direct,West,25-34,No
+CUST00296,Loyal,Mobile,Social Media,West,18-24,No
+CUST00297,Loyal,Desktop,Referral,Central,25-34,No
+CUST00298,Loyal,Mobile,Paid Search,West,25-34,No
+CUST00299,Returning,Desktop,Paid Search,Central,55+,Yes
+CUST00300,Returning,Desktop,Organic Search,South,25-34,No
+CUST00301,Returning,Tablet,Social Media,South,18-24,Yes
+CUST00302,New,Mobile,Email,Central,35-44,No
+CUST00303,Returning,Mobile,Direct,Central,45-54,No
+CUST00304,Returning,Mobile,Paid Search,West,35-44,Yes
+CUST00305,Loyal,Mobile,Organic Search,North,45-54,No
+CUST00306,Returning,Mobile,Email,North,45-54,No
+CUST00307,Returning,Mobile,Referral,Central,35-44,Yes
+CUST00308,Returning,Desktop,Paid Search,East,55+,No
+CUST00309,New,Mobile,Organic Search,North,18-24,No
+CUST00310,New,Mobile,Paid Search,West,45-54,No
+CUST00311,Returning,Mobile,Social Media,West,45-54,No
+CUST00312,Returning,Desktop,Paid Search,South,45-54,No
+CUST00313,New,Desktop,Paid Search,West,25-34,No
+CUST00314,New,Mobile,Email,South,35-44,Yes
+CUST00315,New,Mobile,Paid Search,Central,18-24,Yes
+CUST00316,New,Mobile,Paid Search,South,35-44,No
+CUST00317,New,Mobile,Organic Search,East,25-34,No
+CUST00318,Returning,Mobile,Direct,East,35-44,No
+CUST00319,New,Mobile,Paid Search,North,35-44,No
+CUST00320,Loyal,Desktop,Paid Search,North,25-34,No
+CUST00321,Loyal,Mobile,Organic Search,South,25-34,No
+CUST00322,Returning,Desktop,Email,North,25-34,No
+CUST00323,New,Mobile,Direct,East,35-44,No
+CUST00324,Returning,Tablet,Organic Search,Central,35-44,No
+CUST00325,Loyal,Tablet,Organic Search,Central,35-44,No
+CUST00326,Returning,Desktop,Organic Search,South,18-24,Yes
+CUST00327,Loyal,Mobile,Email,South,45-54,No
+CUST00328,Returning,Mobile,Referral,Central,35-44,Yes
+CUST00329,Returning,Desktop,Social Media,North,18-24,No
+CUST00330,New,Desktop,Paid Search,East,25-34,No
+CUST00331,Returning,Mobile,Direct,South,25-34,No
+CUST00332,New,Mobile,Direct,North,25-34,No
+CUST00333,Returning,Mobile,Paid Search,South,18-24,No
+CUST00334,Loyal,Desktop,Organic Search,South,25-34,No
+CUST00335,New,Desktop,Paid Search,North,18-24,No
+CUST00336,Returning,Desktop,Direct,West,18-24,No
+CUST00337,New,Desktop,Email,North,25-34,No
+CUST00338,Returning,Mobile,Email,South,45-54,Yes
+CUST00339,New,Mobile,Direct,South,25-34,Yes
+CUST00340,Loyal,Mobile,Paid Search,North,25-34,Yes
+CUST00341,New,Desktop,Paid Search,North,35-44,No
+CUST00342,Loyal,Mobile,Organic Search,Central,25-34,Yes
+CUST00343,Loyal,Mobile,Direct,West,18-24,No
+CUST00344,Returning,Mobile,Social Media,East,25-34,No
+CUST00345,Loyal,Mobile,Paid Search,South,25-34,No
+CUST00346,Loyal,Mobile,Organic Search,Central,35-44,Yes
+CUST00347,Loyal,Mobile,Direct,South,25-34,No
+CUST00348,New,Mobile,Direct,North,25-34,No
+CUST00349,Returning,Desktop,Email,West,25-34,No
+CUST00350,New,Mobile,Organic Search,North,55+,Yes
+CUST00351,Returning,Mobile,Direct,East,25-34,No
+CUST00352,New,Mobile,Direct,North,25-34,Yes
+CUST00353,Returning,Desktop,Email,West,25-34,Yes
+CUST00354,Returning,Mobile,Email,West,35-44,No
+CUST00355,Returning,Desktop,Direct,North,35-44,Yes
+CUST00356,Returning,Tablet,Referral,Central,35-44,Yes
+CUST00357,Returning,Desktop,Email,West,25-34,No
+CUST00358,Loyal,Mobile,Paid Search,Central,25-34,No
+CUST00359,Returning,Desktop,Paid Search,North,45-54,Yes
+CUST00360,Returning,Mobile,Direct,Central,25-34,Yes
+CUST00361,Loyal,Mobile,Email,West,55+,Yes
+CUST00362,New,Mobile,Organic Search,Central,25-34,No
+CUST00363,New,Mobile,Organic Search,South,25-34,Yes
+CUST00364,New,Mobile,Direct,South,25-34,No
+CUST00365,Returning,Mobile,Direct,North,25-34,No
+CUST00366,Returning,Mobile,Referral,North,45-54,Yes
+CUST00367,Returning,Mobile,Social Media,North,18-24,No
+CUST00368,Returning,Mobile,Direct,Central,25-34,Yes
+CUST00369,New,Tablet,Direct,South,35-44,Yes
+CUST00370,Loyal,Mobile,Paid Search,East,45-54,Yes
+CUST00371,Returning,Desktop,Organic Search,South,35-44,No
+CUST00372,New,Mobile,Referral,Central,55+,No
+CUST00373,New,Mobile,Organic Search,South,45-54,No
+CUST00374,New,Mobile,Email,North,25-34,No
+CUST00375,New,Mobile,Email,West,45-54,No
+CUST00376,New,Mobile,Email,South,55+,Yes
+CUST00377,Loyal,Mobile,Paid Search,South,25-34,Yes
+CUST00378,Returning,Mobile,Direct,West,35-44,No
+CUST00379,Returning,Mobile,Organic Search,North,25-34,No
+CUST00380,Returning,Mobile,Direct,West,35-44,No
+CUST00381,Returning,Mobile,Organic Search,East,18-24,No
+CUST00382,Loyal,Mobile,Email,East,35-44,No
+CUST00383,Loyal,Mobile,Direct,East,25-34,Yes
+CUST00384,Returning,Mobile,Organic Search,North,35-44,Yes
+CUST00385,New,Mobile,Paid Search,North,18-24,No
+CUST00386,Loyal,Mobile,Direct,North,35-44,No
+CUST00387,Returning,Mobile,Organic Search,Central,25-34,No
+CUST00388,Loyal,Tablet,Organic Search,West,35-44,No
+CUST00389,New,Mobile,Social Media,West,25-34,No
+CUST00390,Loyal,Mobile,Referral,West,18-24,No
+CUST00391,Returning,Mobile,Social Media,West,25-34,No
+CUST00392,New,Tablet,Paid Search,North,55+,Yes
+CUST00393,Returning,Mobile,Referral,West,25-34,No
+CUST00394,Returning,Mobile,Social Media,West,35-44,No
+CUST00395,New,Tablet,Social Media,South,18-24,No
+CUST00396,Returning,Mobile,Paid Search,Central,35-44,Yes
+CUST00397,Loyal,Tablet,Paid Search,West,25-34,No
+CUST00398,New,Mobile,Paid Search,East,25-34,No
+CUST00399,Returning,Desktop,Email,West,25-34,No
+CUST00400,Returning,Mobile,Organic Search,North,18-24,No
+CUST00401,New,Mobile,Email,Central,25-34,No
+CUST00402,Loyal,Tablet,Organic Search,East,25-34,No
+CUST00403,Loyal,Mobile,Paid Search,East,25-34,No
+CUST00404,New,Tablet,Organic Search,North,55+,No
+CUST00405,Loyal,Mobile,Social Media,Central,25-34,Yes
+CUST00406,Loyal,Desktop,Direct,North,45-54,No
+CUST00407,New,Tablet,Paid Search,Central,25-34,No
+CUST00408,Loyal,Mobile,Organic Search,South,18-24,No
+CUST00409,New,Desktop,Organic Search,East,25-34,Yes
+CUST00410,Loyal,Mobile,Direct,North,25-34,No
+CUST00411,Returning,Desktop,Paid Search,South,25-34,No
+CUST00412,Returning,Mobile,Direct,North,45-54,No
+CUST00413,New,Mobile,Paid Search,East,35-44,Yes
+CUST00414,Loyal,Desktop,Organic Search,East,25-34,No
+CUST00415,New,Mobile,Direct,South,25-34,No
+CUST00416,New,Mobile,Social Media,North,25-34,No
+CUST00417,New,Mobile,Organic Search,North,35-44,No
+CUST00418,Returning,Desktop,Referral,West,18-24,No
+CUST00419,New,Mobile,Organic Search,West,18-24,No
+CUST00420,Loyal,Desktop,Paid Search,South,25-34,No
+CUST00421,Returning,Tablet,Paid Search,East,18-24,No
+CUST00422,New,Mobile,Social Media,North,35-44,No
+CUST00423,New,Mobile,Direct,West,18-24,No
+CUST00424,New,Desktop,Organic Search,South,18-24,No
+CUST00425,Returning,Mobile,Referral,South,45-54,Yes
+CUST00426,Loyal,Mobile,Email,North,55+,Yes
+CUST00427,New,Desktop,Referral,West,25-34,Yes
+CUST00428,Loyal,Mobile,Direct,West,25-34,No
+CUST00429,New,Mobile,Referral,West,35-44,No
+CUST00430,Loyal,Desktop,Email,West,18-24,No
+CUST00431,Loyal,Mobile,Paid Search,South,25-34,No
+CUST00432,Returning,Mobile,Social Media,East,18-24,No
+CUST00433,Returning,Mobile,Email,East,25-34,No
+CUST00434,Loyal,Desktop,Social Media,North,55+,No
+CUST00435,New,Desktop,Direct,West,35-44,No
+CUST00436,New,Mobile,Organic Search,Central,55+,No
+CUST00437,New,Mobile,Direct,South,35-44,Yes
+CUST00438,Returning,Mobile,Organic Search,South,35-44,Yes
+CUST00439,Returning,Mobile,Referral,North,35-44,No
+CUST00440,Returning,Mobile,Organic Search,North,35-44,No
+CUST00441,Loyal,Tablet,Organic Search,North,25-34,Yes
+CUST00442,New,Mobile,Direct,East,25-34,No
+CUST00443,Returning,Desktop,Direct,North,25-34,Yes
+CUST00444,New,Mobile,Direct,Central,25-34,Yes
+CUST00445,New,Mobile,Referral,West,25-34,Yes
+CUST00446,Returning,Mobile,Paid Search,East,18-24,No
+CUST00447,Loyal,Mobile,Direct,North,25-34,No
+CUST00448,Returning,Desktop,Paid Search,West,25-34,No
+CUST00449,New,Tablet,Social Media,South,25-34,No
+CUST00450,Returning,Desktop,Social Media,Central,25-34,No
+CUST00451,New,Mobile,Organic Search,Central,18-24,No
+CUST00452,Loyal,Desktop,Social Media,West,55+,No
+CUST00453,Returning,Mobile,Direct,Central,25-34,Yes
+CUST00454,New,Desktop,Organic Search,East,25-34,No
+CUST00455,New,Mobile,Referral,West,18-24,Yes
+CUST00456,New,Mobile,Social Media,West,45-54,No
+CUST00457,Loyal,Mobile,Organic Search,Central,35-44,No
+CUST00458,Returning,Mobile,Email,South,25-34,Yes
+CUST00459,Loyal,Mobile,Organic Search,West,25-34,No
+CUST00460,Returning,Desktop,Organic Search,East,35-44,No
+CUST00461,Returning,Desktop,Email,South,55+,No
+CUST00462,New,Tablet,Organic Search,South,25-34,Yes
+CUST00463,Loyal,Mobile,Organic Search,Central,18-24,Yes
+CUST00464,New,Mobile,Direct,North,18-24,No
+CUST00465,Returning,Mobile,Organic Search,East,18-24,No
+CUST00466,Returning,Mobile,Direct,West,35-44,No
+CUST00467,Returning,Mobile,Direct,South,55+,Yes
+CUST00468,Loyal,Mobile,Organic Search,West,55+,No
+CUST00469,New,Mobile,Social Media,East,35-44,No
+CUST00470,Returning,Mobile,Organic Search,Central,18-24,No
+CUST00471,Returning,Mobile,Email,North,55+,Yes
+CUST00472,Returning,Desktop,Organic Search,West,25-34,No
+CUST00473,New,Mobile,Referral,North,25-34,No
+CUST00474,New,Tablet,Organic Search,South,35-44,Yes
+CUST00475,New,Mobile,Email,East,18-24,Yes
+CUST00476,New,Desktop,Organic Search,North,45-54,Yes
+CUST00477,Returning,Desktop,Organic Search,West,55+,No
+CUST00478,Returning,Desktop,Social Media,East,35-44,No
+CUST00479,Returning,Desktop,Social Media,East,35-44,No
+CUST00480,Returning,Desktop,Referral,North,25-34,Yes
+CUST00481,Returning,Mobile,Organic Search,North,18-24,No
+CUST00482,New,Mobile,Organic Search,North,35-44,No
+CUST00483,Returning,Mobile,Paid Search,South,35-44,No
+CUST00484,New,Mobile,Paid Search,North,45-54,Yes
+CUST00485,New,Mobile,Direct,North,18-24,No
+CUST00486,Returning,Mobile,Direct,Central,25-34,No
+CUST00487,Returning,Mobile,Direct,South,25-34,No
+CUST00488,New,Mobile,Organic Search,Central,35-44,No
+CUST00489,Returning,Mobile,Paid Search,West,35-44,No
+CUST00490,Returning,Mobile,Direct,South,55+,No
+CUST00491,Returning,Desktop,Paid Search,South,25-34,No
+CUST00492,Returning,Desktop,Email,North,25-34,No
+CUST00493,Returning,Mobile,Paid Search,East,18-24,No
+CUST00494,New,Mobile,Paid Search,North,25-34,Yes
+CUST00495,Loyal,Mobile,Direct,Central,25-34,No
+CUST00496,Returning,Mobile,Paid Search,South,35-44,No
+CUST00497,Returning,Desktop,Referral,East,25-34,Yes
+CUST00498,Returning,Mobile,Paid Search,West,25-34,Yes
+CUST00499,New,Tablet,Organic Search,North,35-44,Yes
+CUST00500,Returning,Mobile,Paid Search,Central,45-54,No
+CUST00501,Returning,Desktop,Organic Search,North,25-34,No
+CUST00502,Loyal,Mobile,Social Media,Central,25-34,Yes
+CUST00503,Loyal,Mobile,Organic Search,South,35-44,No
+CUST00504,Returning,Desktop,Email,West,35-44,No
+CUST00505,Returning,Mobile,Direct,East,45-54,No
+CUST00506,Loyal,Desktop,Paid Search,Central,25-34,No
+CUST00507,New,Mobile,Organic Search,North,25-34,No
+CUST00508,Loyal,Mobile,Paid Search,Central,45-54,No
+CUST00509,Returning,Mobile,Direct,Central,25-34,Yes
+CUST00510,New,Desktop,Email,North,25-34,No
+CUST00511,New,Mobile,Organic Search,East,55+,No
+CUST00512,Loyal,Desktop,Social Media,Central,18-24,No
+CUST00513,New,Desktop,Social Media,North,35-44,Yes
+CUST00514,New,Desktop,Paid Search,East,45-54,Yes
+CUST00515,New,Mobile,Organic Search,North,18-24,No
+CUST00516,New,Desktop,Referral,East,35-44,Yes
+CUST00517,New,Tablet,Organic Search,West,25-34,No
+CUST00518,Returning,Mobile,Organic Search,West,45-54,No
+CUST00519,New,Mobile,Organic Search,North,45-54,Yes
+CUST00520,Loyal,Mobile,Social Media,North,45-54,Yes
+CUST00521,Loyal,Mobile,Social Media,Central,18-24,No
+CUST00522,New,Desktop,Paid Search,West,35-44,No
+CUST00523,New,Mobile,Social Media,South,45-54,No
+CUST00524,Returning,Mobile,Email,Central,35-44,No
+CUST00525,New,Mobile,Paid Search,South,35-44,Yes
+CUST00526,New,Mobile,Direct,West,18-24,Yes
+CUST00527,Loyal,Mobile,Paid Search,South,45-54,Yes
+CUST00528,Loyal,Desktop,Organic Search,West,18-24,No
+CUST00529,Returning,Mobile,Referral,North,25-34,No
+CUST00530,New,Mobile,Direct,South,45-54,No
+CUST00531,Returning,Desktop,Paid Search,West,55+,Yes
+CUST00532,Returning,Mobile,Direct,East,55+,No
+CUST00533,Returning,Mobile,Social Media,Central,25-34,No
+CUST00534,Returning,Mobile,Paid Search,South,18-24,No
+CUST00535,New,Tablet,Direct,East,25-34,No
+CUST00536,New,Desktop,Direct,West,18-24,Yes
+CUST00537,Returning,Mobile,Paid Search,West,45-54,No
+CUST00538,New,Mobile,Email,Central,25-34,No
+CUST00539,New,Mobile,Paid Search,Central,25-34,No
+CUST00540,Loyal,Desktop,Organic Search,South,18-24,Yes
+CUST00541,Loyal,Mobile,Referral,North,25-34,No
+CUST00542,Returning,Desktop,Social Media,East,45-54,No
+CUST00543,Loyal,Desktop,Email,West,35-44,No
+CUST00544,Loyal,Mobile,Email,East,18-24,Yes
+CUST00545,New,Desktop,Social Media,South,18-24,No
+CUST00546,Returning,Tablet,Paid Search,East,25-34,No
+CUST00547,Returning,Mobile,Referral,South,18-24,No
+CUST00548,New,Desktop,Email,Central,45-54,No
+CUST00549,Returning,Desktop,Email,West,35-44,Yes
+CUST00550,Returning,Mobile,Social Media,South,18-24,Yes
+CUST00551,Returning,Desktop,Paid Search,Central,35-44,No
+CUST00552,New,Mobile,Organic Search,North,25-34,No
+CUST00553,New,Desktop,Paid Search,North,25-34,No
+CUST00554,Loyal,Desktop,Organic Search,West,25-34,No
+CUST00555,New,Mobile,Email,North,18-24,No
+CUST00556,New,Mobile,Direct,Central,25-34,No
+CUST00557,New,Mobile,Paid Search,South,45-54,No
+CUST00558,Returning,Mobile,Paid Search,West,45-54,No
+CUST00559,Returning,Mobile,Email,North,25-34,Yes
+CUST00560,Returning,Mobile,Organic Search,South,35-44,No
+CUST00561,New,Mobile,Referral,East,25-34,No
+CUST00562,New,Mobile,Paid Search,South,25-34,No
+CUST00563,Loyal,Mobile,Organic Search,West,25-34,No
+CUST00564,Returning,Desktop,Organic Search,West,25-34,No
+CUST00565,Returning,Mobile,Referral,North,18-24,No
+CUST00566,Returning,Mobile,Paid Search,North,55+,No
+CUST00567,Returning,Mobile,Email,Central,45-54,No
+CUST00568,New,Mobile,Organic Search,West,25-34,Yes
+CUST00569,New,Desktop,Organic Search,West,35-44,Yes
+CUST00570,Returning,Mobile,Direct,West,18-24,No
+CUST00571,New,Mobile,Organic Search,Central,35-44,No
+CUST00572,Loyal,Tablet,Organic Search,Central,25-34,No
+CUST00573,Returning,Desktop,Social Media,North,18-24,No
+CUST00574,Returning,Desktop,Direct,South,35-44,No
+CUST00575,Loyal,Desktop,Paid Search,Central,25-34,No
+CUST00576,Returning,Desktop,Organic Search,Central,25-34,Yes
+CUST00577,Loyal,Mobile,Referral,South,25-34,No
+CUST00578,Returning,Mobile,Email,North,18-24,Yes
+CUST00579,Loyal,Mobile,Direct,Central,18-24,Yes
+CUST00580,New,Mobile,Direct,West,35-44,Yes
+CUST00581,Returning,Mobile,Email,West,35-44,Yes
+CUST00582,Returning,Mobile,Paid Search,South,18-24,Yes
+CUST00583,New,Desktop,Paid Search,East,25-34,No
+CUST00584,Returning,Desktop,Direct,North,35-44,No
+CUST00585,Loyal,Desktop,Direct,Central,35-44,Yes
+CUST00586,Returning,Mobile,Referral,East,45-54,No
+CUST00587,New,Mobile,Social Media,Central,25-34,No
+CUST00588,New,Mobile,Paid Search,North,25-34,No
+CUST00589,New,Mobile,Social Media,Central,25-34,No
+CUST00590,New,Desktop,Email,South,25-34,Yes
+CUST00591,Loyal,Desktop,Social Media,East,18-24,No
+CUST00592,Returning,Desktop,Direct,South,18-24,No
+CUST00593,New,Desktop,Social Media,East,45-54,No
+CUST00594,Returning,Tablet,Organic Search,West,25-34,No
+CUST00595,New,Mobile,Social Media,Central,35-44,No
+CUST00596,New,Mobile,Email,Central,25-34,No
+CUST00597,Returning,Mobile,Direct,East,25-34,No
+CUST00598,Returning,Mobile,Paid Search,West,45-54,No
+CUST00599,Loyal,Mobile,Social Media,East,35-44,Yes
+CUST00600,Returning,Mobile,Social Media,West,18-24,Yes
+CUST00601,Returning,Tablet,Social Media,Central,35-44,Yes
+CUST00602,Returning,Mobile,Organic Search,East,25-34,Yes
+CUST00603,Loyal,Tablet,Direct,South,25-34,No
+CUST00604,Returning,Desktop,Direct,Central,35-44,No
+CUST00605,Loyal,Desktop,Social Media,Central,35-44,Yes
+CUST00606,Loyal,Desktop,Social Media,West,25-34,Yes
+CUST00607,Loyal,Mobile,Organic Search,South,55+,Yes
+CUST00608,New,Desktop,Email,North,35-44,No
+CUST00609,Returning,Mobile,Social Media,East,35-44,No
+CUST00610,Returning,Tablet,Email,West,18-24,No
+CUST00611,Returning,Mobile,Organic Search,South,25-34,No
+CUST00612,Returning,Mobile,Direct,South,25-34,No
+CUST00613,Loyal,Desktop,Paid Search,North,35-44,No
+CUST00614,Loyal,Desktop,Email,South,25-34,No
+CUST00615,New,Mobile,Email,South,35-44,No
+CUST00616,Returning,Desktop,Organic Search,West,25-34,No
+CUST00617,Returning,Mobile,Social Media,West,35-44,No
+CUST00618,New,Desktop,Direct,Central,45-54,No
+CUST00619,New,Mobile,Email,Central,35-44,Yes
+CUST00620,New,Mobile,Organic Search,East,35-44,Yes
+CUST00621,Returning,Mobile,Social Media,South,45-54,Yes
+CUST00622,Returning,Mobile,Paid Search,East,18-24,No
+CUST00623,Loyal,Mobile,Email,Central,35-44,No
+CUST00624,Returning,Mobile,Email,North,55+,Yes
+CUST00625,Loyal,Mobile,Organic Search,South,25-34,No
+CUST00626,Returning,Mobile,Email,South,25-34,No
+CUST00627,Loyal,Mobile,Direct,South,55+,No
+CUST00628,New,Mobile,Direct,West,18-24,Yes
+CUST00629,Returning,Desktop,Organic Search,Central,25-34,Yes
+CUST00630,Loyal,Tablet,Paid Search,North,18-24,No
+CUST00631,Loyal,Mobile,Social Media,North,25-34,No
+CUST00632,Loyal,Desktop,Organic Search,West,25-34,No
+CUST00633,New,Mobile,Social Media,East,25-34,No
+CUST00634,New,Mobile,Organic Search,North,45-54,No
+CUST00635,New,Desktop,Organic Search,West,25-34,Yes
+CUST00636,New,Desktop,Email,South,25-34,No
+CUST00637,Returning,Desktop,Paid Search,West,45-54,No
+CUST00638,Returning,Mobile,Direct,Central,45-54,Yes
+CUST00639,Returning,Desktop,Organic Search,South,25-34,No
+CUST00640,Loyal,Mobile,Social Media,North,18-24,Yes
+CUST00641,Returning,Mobile,Paid Search,South,35-44,No
+CUST00642,Loyal,Mobile,Direct,South,45-54,Yes
+CUST00643,New,Tablet,Direct,South,25-34,No
+CUST00644,New,Mobile,Paid Search,North,25-34,No
+CUST00645,Returning,Desktop,Email,Central,35-44,Yes
+CUST00646,Loyal,Desktop,Organic Search,West,35-44,Yes
+CUST00647,New,Desktop,Social Media,North,25-34,No
+CUST00648,Returning,Desktop,Organic Search,West,45-54,Yes
+CUST00649,Returning,Desktop,Social Media,North,35-44,No
+CUST00650,New,Mobile,Organic Search,Central,35-44,No
+CUST00651,Returning,Mobile,Direct,South,35-44,Yes
+CUST00652,Loyal,Mobile,Social Media,West,35-44,No
+CUST00653,Returning,Mobile,Email,Central,25-34,No
+CUST00654,New,Mobile,Paid Search,South,25-34,Yes
+CUST00655,Loyal,Mobile,Paid Search,North,35-44,Yes
+CUST00656,New,Mobile,Organic Search,East,35-44,No
+CUST00657,Loyal,Mobile,Direct,North,25-34,No
+CUST00658,New,Mobile,Direct,Central,18-24,No
+CUST00659,Returning,Desktop,Organic Search,North,35-44,No
+CUST00660,Returning,Mobile,Direct,East,35-44,No
+CUST00661,New,Tablet,Paid Search,East,25-34,No
+CUST00662,Loyal,Tablet,Organic Search,Central,25-34,No
+CUST00663,New,Mobile,Social Media,North,25-34,No
+CUST00664,New,Desktop,Organic Search,South,55+,Yes
+CUST00665,New,Mobile,Organic Search,West,45-54,No
+CUST00666,Returning,Desktop,Email,East,25-34,No
+CUST00667,Loyal,Mobile,Paid Search,North,25-34,No
+CUST00668,Loyal,Mobile,Direct,South,35-44,No
+CUST00669,New,Mobile,Email,West,25-34,No
+CUST00670,Returning,Mobile,Direct,South,55+,No
+CUST00671,New,Tablet,Email,North,18-24,No
+CUST00672,Returning,Desktop,Direct,West,18-24,No
+CUST00673,Loyal,Desktop,Paid Search,West,25-34,No
+CUST00674,Returning,Tablet,Social Media,West,25-34,No
+CUST00675,Returning,Desktop,Social Media,West,35-44,Yes
+CUST00676,Returning,Mobile,Direct,South,35-44,No
+CUST00677,Loyal,Desktop,Organic Search,West,18-24,No
+CUST00678,Returning,Mobile,Social Media,South,25-34,No
+CUST00679,New,Mobile,Direct,West,35-44,No
+CUST00680,New,Mobile,Paid Search,West,45-54,No
+CUST00681,New,Tablet,Direct,Central,25-34,No
+CUST00682,New,Mobile,Paid Search,Central,25-34,No
+CUST00683,New,Mobile,Organic Search,North,35-44,Yes
+CUST00684,Returning,Mobile,Social Media,West,25-34,No
+CUST00685,Returning,Mobile,Social Media,South,35-44,No
+CUST00686,New,Mobile,Organic Search,East,25-34,No
+CUST00687,Returning,Desktop,Organic Search,North,25-34,No
+CUST00688,Loyal,Desktop,Organic Search,North,35-44,No
+CUST00689,Returning,Mobile,Direct,South,25-34,No
+CUST00690,Returning,Mobile,Direct,East,18-24,No
+CUST00691,New,Mobile,Social Media,East,25-34,No
+CUST00692,Loyal,Mobile,Organic Search,West,55+,No
+CUST00693,New,Mobile,Social Media,East,35-44,Yes
+CUST00694,New,Desktop,Direct,North,25-34,Yes
+CUST00695,Loyal,Desktop,Direct,Central,35-44,Yes
+CUST00696,Returning,Mobile,Paid Search,West,25-34,No
+CUST00697,Returning,Mobile,Organic Search,North,25-34,Yes
+CUST00698,Returning,Mobile,Direct,West,25-34,No
+CUST00699,Returning,Mobile,Direct,East,25-34,No
+CUST00700,New,Tablet,Organic Search,South,25-34,No
+CUST00701,New,Desktop,Direct,West,55+,No
+CUST00702,New,Desktop,Organic Search,North,25-34,No
+CUST00703,New,Desktop,Organic Search,South,35-44,Yes
+CUST00704,Loyal,Desktop,Direct,Central,35-44,No
+CUST00705,New,Desktop,Social Media,East,25-34,No
+CUST00706,Returning,Mobile,Paid Search,North,18-24,No
+CUST00707,Loyal,Mobile,Direct,Central,25-34,No
+CUST00708,Loyal,Mobile,Direct,North,18-24,Yes
+CUST00709,Returning,Mobile,Organic Search,East,35-44,No
+CUST00710,Returning,Mobile,Email,West,55+,Yes
+CUST00711,Loyal,Mobile,Direct,South,45-54,No
+CUST00712,Returning,Desktop,Social Media,South,18-24,Yes
+CUST00713,Loyal,Desktop,Referral,West,25-34,No
+CUST00714,Loyal,Mobile,Email,East,18-24,Yes
+CUST00715,Loyal,Mobile,Organic Search,West,55+,Yes
+CUST00716,New,Desktop,Organic Search,West,25-34,Yes
+CUST00717,Returning,Mobile,Direct,South,25-34,No
+CUST00718,New,Mobile,Referral,Central,35-44,Yes
+CUST00719,Returning,Mobile,Organic Search,East,25-34,No
+CUST00720,Loyal,Mobile,Organic Search,South,25-34,No
+CUST00721,Returning,Mobile,Direct,South,35-44,No
+CUST00722,Returning,Desktop,Organic Search,South,18-24,Yes
+CUST00723,New,Desktop,Organic Search,Central,18-24,No
+CUST00724,Loyal,Desktop,Direct,East,18-24,No
+CUST00725,New,Mobile,Direct,South,25-34,Yes
+CUST00726,New,Desktop,Direct,East,55+,Yes
+CUST00727,New,Desktop,Email,Central,25-34,Yes
+CUST00728,New,Mobile,Paid Search,North,35-44,No
+CUST00729,Returning,Desktop,Direct,East,25-34,Yes
+CUST00730,Returning,Mobile,Paid Search,South,35-44,No
+CUST00731,New,Mobile,Paid Search,South,55+,No
+CUST00732,New,Mobile,Direct,North,25-34,Yes
+CUST00733,New,Mobile,Email,West,55+,No
+CUST00734,Returning,Mobile,Direct,East,35-44,Yes
+CUST00735,New,Mobile,Organic Search,Central,35-44,Yes
+CUST00736,Returning,Mobile,Referral,East,25-34,Yes
+CUST00737,New,Tablet,Email,Central,35-44,Yes
+CUST00738,New,Mobile,Email,North,25-34,Yes
+CUST00739,Returning,Mobile,Direct,South,55+,No
+CUST00740,Returning,Mobile,Paid Search,South,45-54,No
+CUST00741,New,Desktop,Direct,Central,25-34,No
+CUST00742,New,Mobile,Email,East,55+,Yes
+CUST00743,Loyal,Desktop,Direct,Central,45-54,No
+CUST00744,New,Mobile,Direct,East,35-44,No
+CUST00745,Returning,Mobile,Email,Central,18-24,Yes
+CUST00746,Returning,Mobile,Organic Search,West,18-24,No
+CUST00747,New,Mobile,Organic Search,Central,18-24,Yes
+CUST00748,Returning,Desktop,Referral,East,18-24,No
+CUST00749,Loyal,Desktop,Referral,North,55+,No
+CUST00750,Loyal,Mobile,Referral,North,25-34,No
+CUST00751,New,Tablet,Organic Search,Central,35-44,No
+CUST00752,New,Mobile,Paid Search,East,35-44,No
+CUST00753,New,Mobile,Direct,East,35-44,Yes
+CUST00754,Returning,Mobile,Direct,South,25-34,No
+CUST00755,Returning,Mobile,Organic Search,East,25-34,Yes
+CUST00756,New,Desktop,Email,South,35-44,Yes
+CUST00757,New,Mobile,Organic Search,East,25-34,Yes
+CUST00758,Loyal,Mobile,Social Media,Central,18-24,No
+CUST00759,New,Mobile,Paid Search,North,35-44,No
+CUST00760,Returning,Mobile,Organic Search,Central,18-24,No
+CUST00761,Returning,Mobile,Organic Search,East,35-44,No
+CUST00762,New,Desktop,Direct,West,25-34,Yes
+CUST00763,New,Mobile,Direct,North,25-34,No
+CUST00764,New,Mobile,Referral,East,35-44,Yes
+CUST00765,Loyal,Mobile,Social Media,East,18-24,No
+CUST00766,New,Mobile,Paid Search,West,45-54,Yes
+CUST00767,New,Mobile,Paid Search,South,45-54,No
+CUST00768,New,Desktop,Email,South,25-34,No
+CUST00769,New,Tablet,Paid Search,East,25-34,No
+CUST00770,Returning,Mobile,Direct,East,18-24,Yes
+CUST00771,New,Tablet,Direct,South,45-54,Yes
+CUST00772,Returning,Mobile,Direct,West,35-44,No
+CUST00773,Returning,Desktop,Paid Search,South,18-24,No
+CUST00774,Loyal,Desktop,Social Media,West,25-34,Yes
+CUST00775,New,Desktop,Organic Search,West,18-24,No
+CUST00776,Loyal,Desktop,Organic Search,West,25-34,No
+CUST00777,Returning,Mobile,Email,West,25-34,No
+CUST00778,New,Mobile,Social Media,South,18-24,No
+CUST00779,Returning,Mobile,Direct,North,45-54,No
+CUST00780,Loyal,Mobile,Organic Search,South,25-34,No
+CUST00781,New,Desktop,Referral,East,25-34,Yes
+CUST00782,Loyal,Mobile,Referral,North,35-44,No
+CUST00783,Returning,Mobile,Social Media,North,55+,No
+CUST00784,Returning,Mobile,Direct,Central,25-34,Yes
+CUST00785,Loyal,Mobile,Paid Search,North,45-54,Yes
+CUST00786,New,Desktop,Direct,East,25-34,No
+CUST00787,Loyal,Desktop,Direct,South,45-54,No
+CUST00788,New,Mobile,Direct,East,25-34,No
+CUST00789,Loyal,Mobile,Direct,Central,35-44,No
+CUST00790,Returning,Mobile,Social Media,West,18-24,No
+CUST00791,New,Mobile,Direct,South,55+,Yes
+CUST00792,Returning,Desktop,Email,South,55+,No
+CUST00793,New,Mobile,Organic Search,North,25-34,No
+CUST00794,New,Mobile,Organic Search,North,25-34,Yes
+CUST00795,New,Mobile,Direct,East,35-44,Yes
+CUST00796,New,Tablet,Email,East,25-34,No
+CUST00797,New,Desktop,Social Media,South,35-44,No
+CUST00798,New,Mobile,Direct,Central,35-44,No
+CUST00799,Returning,Mobile,Email,Central,25-34,No
+CUST00800,Returning,Mobile,Paid Search,West,18-24,No
+CUST00801,Returning,Tablet,Paid Search,West,45-54,No
+CUST00802,New,Mobile,Email,West,18-24,Yes
+CUST00803,Loyal,Mobile,Direct,South,35-44,Yes
+CUST00804,Returning,Tablet,Social Media,South,18-24,No
+CUST00805,New,Desktop,Social Media,South,18-24,No
+CUST00806,New,Mobile,Direct,Central,18-24,No
+CUST00807,Returning,Mobile,Email,West,25-34,No
+CUST00808,New,Mobile,Direct,South,35-44,No
+CUST00809,Returning,Mobile,Organic Search,North,25-34,No
+CUST00810,Loyal,Mobile,Direct,Central,35-44,No
+CUST00811,New,Tablet,Social Media,West,35-44,Yes
+CUST00812,New,Tablet,Organic Search,East,18-24,No
+CUST00813,Loyal,Mobile,Email,West,18-24,No
+CUST00814,Returning,Mobile,Direct,South,35-44,No
+CUST00815,New,Mobile,Social Media,Central,35-44,No
+CUST00816,Loyal,Mobile,Direct,Central,25-34,No
+CUST00817,Loyal,Desktop,Paid Search,East,25-34,Yes
+CUST00818,Returning,Mobile,Organic Search,North,45-54,No
+CUST00819,Returning,Mobile,Paid Search,East,18-24,Yes
+CUST00820,New,Mobile,Paid Search,West,35-44,No
+CUST00821,New,Mobile,Email,Central,18-24,No
+CUST00822,Returning,Mobile,Direct,Central,35-44,Yes
+CUST00823,New,Desktop,Direct,East,25-34,No
+CUST00824,Returning,Desktop,Organic Search,East,35-44,Yes
+CUST00825,Loyal,Mobile,Paid Search,South,18-24,No
+CUST00826,New,Desktop,Organic Search,North,25-34,No
+CUST00827,Returning,Mobile,Email,North,18-24,No
+CUST00828,New,Desktop,Paid Search,Central,35-44,No
+CUST00829,Loyal,Mobile,Social Media,Central,18-24,Yes
+CUST00830,New,Mobile,Direct,Central,18-24,No
+CUST00831,Returning,Tablet,Email,South,35-44,No
+CUST00832,Returning,Mobile,Paid Search,Central,18-24,No
+CUST00833,Returning,Mobile,Paid Search,South,25-34,No
+CUST00834,Returning,Mobile,Email,Central,45-54,No
+CUST00835,Returning,Mobile,Social Media,North,35-44,No
+CUST00836,Returning,Mobile,Organic Search,East,45-54,No
+CUST00837,Returning,Mobile,Direct,Central,25-34,No
+CUST00838,Loyal,Desktop,Social Media,Central,25-34,Yes
+CUST00839,Returning,Mobile,Social Media,West,35-44,Yes
+CUST00840,Returning,Mobile,Organic Search,North,18-24,No
+CUST00841,New,Mobile,Paid Search,North,35-44,No
+CUST00842,Loyal,Desktop,Paid Search,South,18-24,Yes
+CUST00843,Returning,Mobile,Paid Search,South,45-54,Yes
+CUST00844,Returning,Mobile,Social Media,West,35-44,No
+CUST00845,New,Mobile,Social Media,Central,25-34,No
+CUST00846,Loyal,Desktop,Direct,Central,25-34,No
+CUST00847,Returning,Desktop,Referral,Central,18-24,No
+CUST00848,Returning,Mobile,Organic Search,North,25-34,Yes
+CUST00849,New,Desktop,Organic Search,East,35-44,No
+CUST00850,Loyal,Mobile,Direct,Central,25-34,No
+CUST00851,New,Mobile,Referral,East,25-34,Yes
+CUST00852,New,Mobile,Direct,East,18-24,No
+CUST00853,Loyal,Mobile,Organic Search,West,35-44,No
+CUST00854,Loyal,Mobile,Paid Search,East,25-34,No
+CUST00855,New,Mobile,Organic Search,South,18-24,No
+CUST00856,Returning,Mobile,Direct,North,55+,No
+CUST00857,Returning,Mobile,Social Media,West,25-34,No
+CUST00858,Loyal,Mobile,Social Media,East,25-34,Yes
+CUST00859,New,Desktop,Social Media,West,55+,Yes
+CUST00860,Returning,Desktop,Paid Search,South,25-34,Yes
+CUST00861,Returning,Mobile,Email,South,55+,No
+CUST00862,Returning,Mobile,Organic Search,West,35-44,No
+CUST00863,Loyal,Mobile,Email,East,35-44,No
+CUST00864,Returning,Mobile,Direct,North,25-34,Yes
+CUST00865,New,Mobile,Email,South,18-24,No
+CUST00866,Loyal,Mobile,Paid Search,East,25-34,Yes
+CUST00867,Loyal,Desktop,Direct,South,18-24,No
+CUST00868,Loyal,Desktop,Direct,East,18-24,No
+CUST00869,New,Mobile,Organic Search,West,35-44,Yes
+CUST00870,New,Mobile,Organic Search,South,35-44,No
+CUST00871,Returning,Desktop,Email,East,18-24,No
+CUST00872,New,Mobile,Paid Search,West,35-44,No
+CUST00873,Loyal,Desktop,Organic Search,East,55+,Yes
+CUST00874,New,Mobile,Organic Search,West,35-44,No
+CUST00875,Returning,Mobile,Organic Search,South,35-44,No
+CUST00876,Loyal,Mobile,Social Media,West,35-44,No
+CUST00877,Returning,Mobile,Email,East,25-34,Yes
+CUST00878,New,Desktop,Organic Search,West,25-34,No
+CUST00879,Returning,Mobile,Direct,East,55+,Yes
+CUST00880,Returning,Tablet,Paid Search,South,35-44,No
+CUST00881,Returning,Mobile,Paid Search,Central,35-44,No
+CUST00882,Returning,Desktop,Organic Search,East,55+,Yes
+CUST00883,Loyal,Desktop,Direct,South,25-34,No
+CUST00884,Returning,Mobile,Referral,West,25-34,No
+CUST00885,New,Mobile,Social Media,East,35-44,No
+CUST00886,New,Desktop,Organic Search,South,18-24,No
+CUST00887,Returning,Mobile,Paid Search,West,25-34,No
+CUST00888,New,Tablet,Organic Search,North,35-44,No
+CUST00889,New,Mobile,Direct,North,35-44,No
+CUST00890,Returning,Mobile,Organic Search,North,25-34,No
+CUST00891,New,Mobile,Referral,East,35-44,No
+CUST00892,Loyal,Desktop,Social Media,West,18-24,No
+CUST00893,New,Tablet,Social Media,South,45-54,No
+CUST00894,New,Mobile,Direct,Central,18-24,Yes
+CUST00895,Returning,Desktop,Organic Search,East,45-54,No
+CUST00896,Loyal,Desktop,Direct,North,25-34,Yes
+CUST00897,New,Mobile,Organic Search,Central,25-34,No
+CUST00898,New,Mobile,Direct,West,25-34,No
+CUST00899,New,Desktop,Social Media,North,25-34,Yes
+CUST00900,Returning,Desktop,Organic Search,Central,25-34,No
+CUST00901,Returning,Mobile,Direct,Central,45-54,Yes
+CUST00902,New,Desktop,Organic Search,South,35-44,No
+CUST00903,New,Mobile,Organic Search,South,18-24,No
+CUST00904,Returning,Desktop,Direct,South,35-44,No
+CUST00905,Loyal,Desktop,Social Media,West,45-54,No
+CUST00906,Returning,Desktop,Direct,Central,45-54,Yes
+CUST00907,Returning,Mobile,Email,East,25-34,No
+CUST00908,New,Mobile,Email,East,18-24,No
+CUST00909,New,Mobile,Paid Search,South,45-54,Yes
+CUST00910,New,Mobile,Organic Search,Central,25-34,No
+CUST00911,Returning,Desktop,Referral,Central,25-34,Yes
+CUST00912,Loyal,Mobile,Organic Search,South,35-44,No
+CUST00913,Loyal,Mobile,Social Media,West,25-34,Yes
+CUST00914,Loyal,Mobile,Paid Search,West,45-54,No
+CUST00915,Loyal,Mobile,Paid Search,North,18-24,Yes
+CUST00916,Loyal,Mobile,Email,West,35-44,Yes
+CUST00917,New,Desktop,Direct,North,55+,No
+CUST00918,New,Desktop,Direct,East,55+,No
+CUST00919,New,Mobile,Direct,West,45-54,Yes
+CUST00920,Returning,Desktop,Paid Search,Central,45-54,No
+CUST00921,New,Desktop,Social Media,South,25-34,No
+CUST00922,Loyal,Mobile,Organic Search,East,55+,No
+CUST00923,Returning,Desktop,Direct,West,45-54,Yes
+CUST00924,Returning,Mobile,Paid Search,West,25-34,No
+CUST00925,New,Mobile,Social Media,West,25-34,No
+CUST00926,New,Mobile,Organic Search,South,18-24,No
+CUST00927,New,Mobile,Direct,Central,35-44,No
+CUST00928,Loyal,Desktop,Direct,South,35-44,No
+CUST00929,Returning,Desktop,Direct,North,25-34,No
+CUST00930,Returning,Desktop,Organic Search,East,25-34,No
+CUST00931,New,Mobile,Referral,East,25-34,Yes
+CUST00932,New,Mobile,Paid Search,Central,18-24,No
+CUST00933,Returning,Tablet,Paid Search,South,55+,No
+CUST00934,Returning,Mobile,Paid Search,North,25-34,No
+CUST00935,Returning,Mobile,Paid Search,North,18-24,No
+CUST00936,New,Mobile,Social Media,Central,18-24,No
+CUST00937,Loyal,Mobile,Paid Search,Central,45-54,Yes
+CUST00938,New,Mobile,Paid Search,East,45-54,Yes
+CUST00939,Loyal,Mobile,Email,West,18-24,Yes
+CUST00940,New,Mobile,Direct,East,18-24,Yes
+CUST00941,New,Mobile,Email,West,25-34,No
+CUST00942,Loyal,Mobile,Email,South,18-24,Yes
+CUST00943,New,Mobile,Organic Search,West,35-44,Yes
+CUST00944,Returning,Mobile,Direct,East,18-24,No
+CUST00945,Returning,Desktop,Organic Search,North,25-34,Yes
+CUST00946,New,Mobile,Paid Search,North,25-34,Yes
+CUST00947,Returning,Desktop,Organic Search,South,25-34,Yes
+CUST00948,Loyal,Desktop,Email,East,25-34,Yes
+CUST00949,Loyal,Mobile,Paid Search,West,18-24,No
+CUST00950,New,Desktop,Email,South,25-34,No
+CUST00951,Returning,Desktop,Paid Search,South,18-24,No
+CUST00952,New,Mobile,Social Media,Central,18-24,No
+CUST00953,New,Mobile,Social Media,Central,55+,No
+CUST00954,New,Mobile,Organic Search,Central,25-34,No
+CUST00955,Loyal,Tablet,Social Media,North,25-34,No
+CUST00956,Loyal,Desktop,Email,Central,18-24,No
+CUST00957,Returning,Tablet,Social Media,North,35-44,No
+CUST00958,Returning,Desktop,Organic Search,Central,45-54,No
+CUST00959,Returning,Mobile,Email,West,35-44,No
+CUST00960,Returning,Desktop,Paid Search,North,35-44,Yes
+CUST00961,Returning,Mobile,Organic Search,South,45-54,No
+CUST00962,Returning,Desktop,Organic Search,West,25-34,Yes
+CUST00963,New,Mobile,Social Media,East,45-54,No
+CUST00964,New,Mobile,Paid Search,Central,35-44,No
+CUST00965,Loyal,Desktop,Email,North,18-24,No
+CUST00966,Returning,Desktop,Paid Search,Central,25-34,Yes
+CUST00967,Loyal,Mobile,Direct,West,25-34,No
+CUST00968,New,Mobile,Paid Search,Central,18-24,No
+CUST00969,Returning,Mobile,Email,South,45-54,No
+CUST00970,New,Tablet,Direct,South,18-24,No
+CUST00971,New,Mobile,Paid Search,South,35-44,No
+CUST00972,New,Mobile,Organic Search,West,55+,No
+CUST00973,New,Mobile,Social Media,Central,25-34,No
+CUST00974,Loyal,Mobile,Referral,Central,25-34,No
+CUST00975,New,Mobile,Referral,South,35-44,Yes
+CUST00976,Returning,Mobile,Organic Search,Central,35-44,Yes
+CUST00977,Returning,Desktop,Direct,Central,25-34,Yes
+CUST00978,Returning,Desktop,Paid Search,South,25-34,No
+CUST00979,Returning,Tablet,Organic Search,North,35-44,No
+CUST00980,New,Mobile,Email,Central,45-54,No
+CUST00981,Loyal,Mobile,Social Media,East,25-34,No
+CUST00982,Loyal,Desktop,Social Media,North,25-34,No
+CUST00983,Returning,Desktop,Direct,Central,55+,Yes
+CUST00984,Returning,Mobile,Paid Search,Central,18-24,Yes
+CUST00985,New,Desktop,Email,West,18-24,No
+CUST00986,Loyal,Desktop,Paid Search,East,35-44,No
+CUST00987,New,Desktop,Organic Search,West,18-24,No
+CUST00988,New,Desktop,Paid Search,Central,18-24,Yes
+CUST00989,New,Mobile,Referral,North,35-44,No
+CUST00990,Loyal,Mobile,Social Media,East,35-44,No
+CUST00991,Returning,Mobile,Organic Search,East,25-34,No
+CUST00992,Returning,Mobile,Email,West,25-34,Yes
+CUST00993,Loyal,Desktop,Referral,West,25-34,No
+CUST00994,New,Mobile,Direct,East,35-44,No
+CUST00995,Loyal,Mobile,Social Media,North,35-44,No
+CUST00996,Returning,Desktop,Paid Search,North,35-44,No
+CUST00997,Returning,Desktop,Social Media,East,35-44,No
+CUST00998,New,Desktop,Direct,West,45-54,No
+CUST00999,Loyal,Mobile,Direct,South,45-54,No
+CUST01000,New,Desktop,Direct,Central,18-24,No
+CUST01001,New,Mobile,Social Media,Central,55+,Yes
+CUST01002,Returning,Mobile,Organic Search,North,45-54,Yes
+CUST01003,New,Mobile,Social Media,East,25-34,No
+CUST01004,New,Desktop,Organic Search,Central,18-24,Yes
+CUST01005,Returning,Desktop,Organic Search,Central,35-44,Yes
+CUST01006,Returning,Mobile,Social Media,West,25-34,No
+CUST01007,Loyal,Mobile,Email,North,35-44,No
+CUST01008,New,Desktop,Direct,East,25-34,Yes
+CUST01009,Returning,Desktop,Direct,Central,18-24,Yes
+CUST01010,Returning,Mobile,Direct,South,25-34,No
+CUST01011,Returning,Tablet,Direct,East,45-54,No
+CUST01012,Returning,Desktop,Email,South,18-24,No
+CUST01013,Returning,Tablet,Organic Search,North,35-44,No
+CUST01014,Loyal,Tablet,Email,North,25-34,Yes
+CUST01015,New,Desktop,Organic Search,West,25-34,No
+CUST01016,New,Desktop,Organic Search,Central,25-34,Yes
+CUST01017,Returning,Mobile,Organic Search,North,25-34,No
+CUST01018,Loyal,Mobile,Direct,Central,35-44,Yes
+CUST01019,New,Mobile,Direct,East,35-44,Yes
+CUST01020,Returning,Desktop,Referral,North,18-24,Yes
+CUST01021,Loyal,Mobile,Referral,West,25-34,No
+CUST01022,Returning,Desktop,Direct,Central,35-44,Yes
+CUST01023,Loyal,Mobile,Organic Search,North,35-44,Yes
+CUST01024,Returning,Mobile,Direct,South,25-34,Yes
+CUST01025,Returning,Mobile,Direct,East,35-44,No
+CUST01026,New,Mobile,Direct,South,18-24,No
+CUST01027,Loyal,Mobile,Organic Search,East,18-24,No
+CUST01028,New,Mobile,Organic Search,West,35-44,No
+CUST01029,Returning,Desktop,Referral,West,35-44,No
+CUST01030,Returning,Mobile,Organic Search,East,45-54,No
+CUST01031,Returning,Mobile,Paid Search,North,18-24,Yes
+CUST01032,Returning,Mobile,Social Media,West,25-34,No
+CUST01033,Returning,Mobile,Organic Search,North,35-44,No
+CUST01034,Loyal,Mobile,Organic Search,South,25-34,Yes
+CUST01035,Returning,Desktop,Referral,East,25-34,No
+CUST01036,Returning,Desktop,Direct,South,35-44,Yes
+CUST01037,New,Mobile,Direct,West,25-34,No
+CUST01038,Returning,Mobile,Paid Search,West,25-34,No
+CUST01039,Returning,Mobile,Organic Search,North,25-34,No
+CUST01040,New,Mobile,Social Media,South,45-54,No
+CUST01041,New,Desktop,Social Media,South,25-34,No
+CUST01042,Returning,Mobile,Organic Search,East,18-24,No
+CUST01043,Returning,Desktop,Direct,North,18-24,Yes
+CUST01044,Returning,Mobile,Referral,West,18-24,No
+CUST01045,New,Mobile,Social Media,West,18-24,No
+CUST01046,New,Mobile,Paid Search,Central,35-44,No
+CUST01047,New,Mobile,Paid Search,East,18-24,No
+CUST01048,Returning,Tablet,Organic Search,North,25-34,Yes
+CUST01049,Loyal,Mobile,Paid Search,North,18-24,Yes
+CUST01050,New,Desktop,Social Media,West,25-34,Yes
+CUST01051,Returning,Desktop,Social Media,South,18-24,Yes
+CUST01052,New,Mobile,Social Media,North,35-44,No
+CUST01053,New,Mobile,Direct,South,35-44,No
+CUST01054,New,Mobile,Organic Search,West,35-44,No
+CUST01055,New,Mobile,Organic Search,Central,25-34,No
+CUST01056,Returning,Desktop,Organic Search,South,45-54,No
+CUST01057,Loyal,Mobile,Organic Search,West,35-44,Yes
+CUST01058,New,Desktop,Social Media,Central,18-24,No
+CUST01059,Returning,Desktop,Direct,Central,25-34,No
+CUST01060,Returning,Mobile,Direct,North,35-44,No
+CUST01061,Loyal,Desktop,Email,East,25-34,No
+CUST01062,Returning,Mobile,Paid Search,North,25-34,No
+CUST01063,New,Desktop,Organic Search,South,35-44,Yes
+CUST01064,Returning,Mobile,Paid Search,West,18-24,No
+CUST01065,New,Tablet,Paid Search,East,55+,No
+CUST01066,Loyal,Desktop,Direct,North,18-24,No
+CUST01067,Returning,Desktop,Social Media,Central,18-24,No
+CUST01068,Returning,Mobile,Organic Search,West,18-24,No
+CUST01069,New,Desktop,Paid Search,North,25-34,No
+CUST01070,Returning,Mobile,Organic Search,East,45-54,No
+CUST01071,Loyal,Desktop,Direct,South,45-54,No
+CUST01072,Returning,Mobile,Organic Search,Central,45-54,No
+CUST01073,Returning,Mobile,Organic Search,South,25-34,Yes
+CUST01074,Loyal,Mobile,Organic Search,North,25-34,No
+CUST01075,Loyal,Mobile,Direct,East,25-34,No
+CUST01076,New,Mobile,Social Media,North,18-24,Yes
+CUST01077,Returning,Desktop,Email,Central,45-54,No
+CUST01078,Returning,Mobile,Paid Search,East,25-34,Yes
+CUST01079,Returning,Desktop,Organic Search,West,25-34,Yes
+CUST01080,New,Mobile,Direct,Central,25-34,No
+CUST01081,New,Desktop,Organic Search,North,35-44,Yes
+CUST01082,Loyal,Desktop,Organic Search,East,25-34,No
+CUST01083,Loyal,Mobile,Social Media,East,35-44,No
+CUST01084,Loyal,Desktop,Organic Search,North,35-44,Yes
+CUST01085,Loyal,Desktop,Organic Search,North,45-54,Yes
+CUST01086,Returning,Desktop,Direct,Central,18-24,No
+CUST01087,Returning,Mobile,Social Media,Central,18-24,Yes
+CUST01088,Returning,Mobile,Paid Search,North,25-34,No
+CUST01089,Returning,Desktop,Paid Search,North,45-54,No
+CUST01090,Returning,Mobile,Direct,Central,55+,No
+CUST01091,New,Desktop,Organic Search,South,35-44,No
+CUST01092,Returning,Mobile,Organic Search,West,25-34,No
+CUST01093,New,Desktop,Email,South,18-24,Yes
+CUST01094,New,Mobile,Email,South,35-44,No
+CUST01095,Returning,Mobile,Referral,West,25-34,No
+CUST01096,Returning,Tablet,Paid Search,Central,25-34,No
+CUST01097,New,Desktop,Organic Search,West,45-54,Yes
+CUST01098,Loyal,Desktop,Social Media,North,25-34,Yes
+CUST01099,Loyal,Tablet,Email,North,25-34,No
+CUST01100,New,Mobile,Organic Search,South,18-24,Yes
+CUST01101,New,Mobile,Social Media,Central,25-34,No
+CUST01102,New,Mobile,Organic Search,West,35-44,No
+CUST01103,Loyal,Mobile,Direct,West,25-34,No
+CUST01104,Loyal,Mobile,Direct,South,18-24,No
+CUST01105,New,Tablet,Social Media,Central,18-24,Yes
+CUST01106,Returning,Mobile,Referral,Central,18-24,No
+CUST01107,New,Mobile,Referral,South,35-44,No
+CUST01108,Returning,Mobile,Organic Search,South,35-44,Yes
+CUST01109,Loyal,Mobile,Paid Search,South,25-34,No
+CUST01110,New,Mobile,Email,Central,25-34,No
+CUST01111,New,Desktop,Organic Search,East,18-24,Yes
+CUST01112,Returning,Mobile,Paid Search,North,25-34,No
+CUST01113,Returning,Mobile,Paid Search,East,18-24,Yes
+CUST01114,Loyal,Desktop,Referral,North,45-54,No
+CUST01115,Loyal,Mobile,Paid Search,West,18-24,No
+CUST01116,New,Desktop,Direct,West,25-34,No
+CUST01117,New,Mobile,Paid Search,Central,18-24,No
+CUST01118,Loyal,Mobile,Organic Search,South,35-44,Yes
+CUST01119,New,Mobile,Direct,North,18-24,No
+CUST01120,Loyal,Tablet,Organic Search,Central,45-54,Yes
+CUST01121,Returning,Desktop,Organic Search,East,18-24,No
+CUST01122,New,Mobile,Paid Search,South,45-54,Yes
+CUST01123,Loyal,Mobile,Email,East,35-44,Yes
+CUST01124,New,Desktop,Paid Search,West,25-34,Yes
+CUST01125,Returning,Desktop,Organic Search,East,25-34,Yes
+CUST01126,Returning,Mobile,Paid Search,North,25-34,Yes
+CUST01127,Returning,Desktop,Paid Search,South,45-54,Yes
+CUST01128,Returning,Desktop,Organic Search,South,45-54,No
+CUST01129,Returning,Desktop,Social Media,North,18-24,No
+CUST01130,Loyal,Mobile,Organic Search,Central,25-34,Yes
+CUST01131,Loyal,Mobile,Paid Search,West,25-34,No
+CUST01132,Returning,Tablet,Email,East,18-24,No
+CUST01133,New,Mobile,Direct,East,35-44,No
+CUST01134,Returning,Mobile,Paid Search,East,25-34,No
+CUST01135,Loyal,Mobile,Paid Search,North,25-34,No
+CUST01136,New,Mobile,Paid Search,North,45-54,No
+CUST01137,Returning,Desktop,Referral,Central,35-44,Yes
+CUST01138,Returning,Mobile,Organic Search,East,35-44,No
+CUST01139,New,Desktop,Organic Search,West,18-24,No
+CUST01140,Returning,Mobile,Social Media,Central,45-54,No
+CUST01141,New,Mobile,Organic Search,East,25-34,No
+CUST01142,Loyal,Mobile,Organic Search,North,25-34,No
+CUST01143,Loyal,Desktop,Organic Search,East,18-24,No
+CUST01144,Loyal,Mobile,Email,North,45-54,Yes
+CUST01145,Returning,Mobile,Email,Central,25-34,Yes
+CUST01146,New,Desktop,Email,West,45-54,No
+CUST01147,Returning,Mobile,Direct,West,35-44,Yes
+CUST01148,Loyal,Mobile,Paid Search,North,35-44,No
+CUST01149,Returning,Mobile,Direct,South,35-44,Yes
+CUST01150,Loyal,Desktop,Direct,Central,45-54,No
+CUST01151,New,Mobile,Direct,East,25-34,No
+CUST01152,Loyal,Mobile,Direct,North,25-34,No
+CUST01153,New,Mobile,Paid Search,South,35-44,No
+CUST01154,New,Mobile,Paid Search,East,25-34,No
+CUST01155,Returning,Mobile,Social Media,Central,35-44,No
+CUST01156,New,Mobile,Organic Search,West,35-44,No
+CUST01157,New,Mobile,Social Media,North,25-34,No
+CUST01158,New,Mobile,Organic Search,Central,35-44,Yes
+CUST01159,Returning,Desktop,Organic Search,South,25-34,No
+CUST01160,Returning,Mobile,Referral,Central,45-54,No
+CUST01161,New,Mobile,Email,South,18-24,No
+CUST01162,Returning,Desktop,Social Media,West,35-44,No
+CUST01163,Loyal,Desktop,Paid Search,South,45-54,No
+CUST01164,New,Desktop,Social Media,South,25-34,No
+CUST01165,New,Mobile,Direct,West,25-34,No
+CUST01166,Loyal,Mobile,Email,East,25-34,No
+CUST01167,Loyal,Mobile,Email,South,25-34,No
+CUST01168,Returning,Mobile,Social Media,North,25-34,Yes
+CUST01169,Loyal,Mobile,Paid Search,South,18-24,No
+CUST01170,New,Mobile,Email,East,45-54,Yes
+CUST01171,Returning,Mobile,Referral,North,25-34,Yes
+CUST01172,Returning,Mobile,Social Media,Central,25-34,Yes
+CUST01173,New,Mobile,Paid Search,Central,35-44,No
+CUST01174,Returning,Mobile,Social Media,Central,18-24,Yes
+CUST01175,Returning,Desktop,Social Media,West,18-24,Yes
+CUST01176,Returning,Desktop,Referral,East,55+,Yes
+CUST01177,Returning,Mobile,Email,North,35-44,No
+CUST01178,New,Mobile,Paid Search,North,18-24,No
+CUST01179,New,Mobile,Paid Search,West,35-44,No
+CUST01180,New,Mobile,Social Media,East,25-34,No
+CUST01181,Returning,Desktop,Organic Search,East,18-24,Yes
+CUST01182,New,Mobile,Social Media,West,35-44,No
+CUST01183,New,Mobile,Direct,South,25-34,Yes
+CUST01184,New,Mobile,Email,East,25-34,No
+CUST01185,New,Mobile,Organic Search,East,45-54,No
+CUST01186,Loyal,Mobile,Direct,West,25-34,No
+CUST01187,Returning,Mobile,Direct,Central,25-34,Yes
+CUST01188,Loyal,Tablet,Paid Search,Central,25-34,Yes
+CUST01189,New,Mobile,Email,North,35-44,No
+CUST01190,Returning,Mobile,Email,East,35-44,No
+CUST01191,Returning,Mobile,Direct,East,45-54,No
+CUST01192,Returning,Mobile,Organic Search,Central,25-34,No
+CUST01193,Loyal,Mobile,Organic Search,North,35-44,No
+CUST01194,Loyal,Mobile,Social Media,East,25-34,Yes
+CUST01195,Loyal,Desktop,Organic Search,Central,25-34,No
+CUST01196,New,Mobile,Paid Search,North,18-24,Yes
+CUST01197,New,Mobile,Direct,West,45-54,No
+CUST01198,Returning,Mobile,Organic Search,North,25-34,No
+CUST01199,New,Mobile,Social Media,West,35-44,No
+CUST01200,Returning,Mobile,Referral,Central,25-34,No
+CUST01201,Returning,Desktop,Social Media,South,18-24,Yes
+CUST01202,Returning,Mobile,Social Media,East,55+,No
+CUST01203,Loyal,Mobile,Social Media,South,45-54,No
+CUST01204,Returning,Desktop,Organic Search,East,25-34,No
+CUST01205,New,Mobile,Organic Search,North,35-44,No
+CUST01206,New,Mobile,Email,South,25-34,No
+CUST01207,Returning,Mobile,Paid Search,East,35-44,Yes
+CUST01208,Returning,Desktop,Paid Search,South,18-24,No
+CUST01209,New,Mobile,Organic Search,West,25-34,No
+CUST01210,Returning,Desktop,Direct,South,25-34,Yes
+CUST01211,Returning,Desktop,Organic Search,North,25-34,No
+CUST01212,Loyal,Desktop,Direct,East,25-34,No
+CUST01213,Returning,Tablet,Paid Search,South,18-24,Yes
+CUST01214,Returning,Desktop,Email,West,55+,Yes
+CUST01215,New,Desktop,Paid Search,Central,18-24,No
+CUST01216,Returning,Desktop,Organic Search,Central,18-24,No
+CUST01217,New,Desktop,Social Media,East,25-34,Yes
+CUST01218,Returning,Desktop,Email,South,35-44,Yes
+CUST01219,Returning,Tablet,Organic Search,West,18-24,Yes
+CUST01220,New,Mobile,Social Media,South,25-34,Yes
+CUST01221,New,Desktop,Social Media,North,35-44,No
+CUST01222,New,Mobile,Organic Search,West,18-24,Yes
+CUST01223,Loyal,Desktop,Social Media,South,55+,Yes
+CUST01224,Returning,Mobile,Organic Search,West,25-34,Yes
+CUST01225,New,Desktop,Social Media,Central,35-44,No
+CUST01226,Loyal,Desktop,Organic Search,Central,18-24,No
+CUST01227,Returning,Tablet,Social Media,East,35-44,No
+CUST01228,Returning,Mobile,Paid Search,South,45-54,No
+CUST01229,Loyal,Desktop,Social Media,Central,18-24,No
+CUST01230,New,Desktop,Social Media,East,18-24,No
+CUST01231,New,Tablet,Direct,South,25-34,No
+CUST01232,Returning,Desktop,Social Media,Central,18-24,No
+CUST01233,New,Mobile,Direct,West,55+,Yes
+CUST01234,Returning,Mobile,Organic Search,North,35-44,No
+CUST01235,New,Mobile,Paid Search,South,35-44,No
+CUST01236,New,Tablet,Organic Search,West,55+,No
+CUST01237,New,Mobile,Social Media,West,45-54,Yes
+CUST01238,Returning,Desktop,Email,West,45-54,No
+CUST01239,New,Desktop,Direct,West,25-34,No
+CUST01240,New,Mobile,Social Media,South,25-34,Yes
+CUST01241,Loyal,Mobile,Email,West,25-34,Yes
+CUST01242,New,Mobile,Organic Search,West,25-34,Yes
+CUST01243,New,Desktop,Organic Search,Central,25-34,No
+CUST01244,New,Mobile,Direct,North,18-24,No
+CUST01245,New,Mobile,Organic Search,Central,25-34,No
+CUST01246,New,Desktop,Organic Search,South,25-34,No
+CUST01247,Returning,Mobile,Referral,Central,25-34,No
+CUST01248,New,Desktop,Referral,East,18-24,No
+CUST01249,Loyal,Mobile,Email,Central,25-34,Yes
+CUST01250,Loyal,Mobile,Paid Search,Central,25-34,Yes
+CUST01251,New,Mobile,Direct,East,35-44,No
+CUST01252,New,Mobile,Organic Search,West,35-44,Yes
+CUST01253,New,Mobile,Social Media,North,25-34,Yes
+CUST01254,Returning,Desktop,Paid Search,North,18-24,No
+CUST01255,New,Mobile,Direct,South,25-34,No
+CUST01256,Loyal,Mobile,Direct,South,18-24,Yes
+CUST01257,Returning,Mobile,Email,West,25-34,No
+CUST01258,Loyal,Mobile,Organic Search,South,55+,No
+CUST01259,Returning,Desktop,Social Media,Central,18-24,No
+CUST01260,Loyal,Mobile,Paid Search,North,25-34,No
+CUST01261,New,Tablet,Direct,Central,35-44,Yes
+CUST01262,Returning,Mobile,Organic Search,South,25-34,Yes
+CUST01263,New,Mobile,Organic Search,Central,18-24,Yes
+CUST01264,Loyal,Mobile,Email,Central,18-24,No
+CUST01265,Returning,Mobile,Social Media,East,45-54,No
+CUST01266,Loyal,Desktop,Direct,Central,18-24,No
+CUST01267,New,Mobile,Organic Search,East,35-44,No
+CUST01268,Loyal,Mobile,Direct,Central,35-44,No
+CUST01269,Returning,Desktop,Organic Search,Central,25-34,Yes
+CUST01270,Returning,Desktop,Organic Search,West,35-44,Yes
+CUST01271,Loyal,Tablet,Social Media,East,18-24,No
+CUST01272,Returning,Tablet,Organic Search,North,25-34,No
+CUST01273,Returning,Desktop,Email,West,25-34,No
+CUST01274,Returning,Desktop,Organic Search,North,55+,Yes
+CUST01275,New,Desktop,Organic Search,East,25-34,No
+CUST01276,New,Mobile,Direct,East,18-24,Yes
+CUST01277,New,Desktop,Organic Search,North,45-54,No
+CUST01278,New,Mobile,Email,South,18-24,Yes
+CUST01279,Loyal,Desktop,Direct,West,45-54,No
+CUST01280,Returning,Tablet,Organic Search,West,35-44,Yes
+CUST01281,New,Mobile,Direct,East,25-34,Yes
+CUST01282,Returning,Desktop,Paid Search,West,35-44,No
+CUST01283,Returning,Tablet,Paid Search,West,35-44,No
+CUST01284,Returning,Mobile,Organic Search,West,18-24,No
+CUST01285,Loyal,Mobile,Direct,West,55+,Yes
+CUST01286,Loyal,Desktop,Social Media,West,55+,No
+CUST01287,Returning,Tablet,Social Media,South,45-54,Yes
+CUST01288,New,Mobile,Referral,West,35-44,No
+CUST01289,Returning,Mobile,Paid Search,South,25-34,No
+CUST01290,Returning,Desktop,Direct,South,25-34,No
+CUST01291,Returning,Mobile,Direct,South,18-24,No
+CUST01292,Returning,Mobile,Referral,North,25-34,No
+CUST01293,Returning,Mobile,Direct,Central,35-44,Yes
+CUST01294,New,Mobile,Referral,West,35-44,No
+CUST01295,New,Mobile,Organic Search,Central,25-34,No
+CUST01296,New,Desktop,Direct,West,25-34,No
+CUST01297,New,Desktop,Direct,East,35-44,No
+CUST01298,New,Desktop,Email,Central,25-34,Yes
+CUST01299,Returning,Mobile,Paid Search,Central,55+,Yes
+CUST01300,Returning,Mobile,Referral,East,35-44,No
+CUST01301,New,Mobile,Organic Search,North,18-24,No
+CUST01302,Returning,Mobile,Social Media,North,18-24,No
+CUST01303,Returning,Mobile,Social Media,West,35-44,No
+CUST01304,New,Mobile,Organic Search,North,25-34,No
+CUST01305,Loyal,Mobile,Direct,South,45-54,No
+CUST01306,Loyal,Mobile,Organic Search,North,18-24,No
+CUST01307,Returning,Desktop,Email,North,18-24,Yes
+CUST01308,Returning,Desktop,Direct,Central,25-34,Yes
+CUST01309,New,Tablet,Paid Search,West,35-44,No
+CUST01310,Loyal,Desktop,Email,South,55+,Yes
+CUST01311,Returning,Mobile,Organic Search,West,45-54,Yes
+CUST01312,Loyal,Mobile,Direct,Central,25-34,No
+CUST01313,Returning,Mobile,Referral,West,45-54,No
+CUST01314,New,Mobile,Organic Search,Central,18-24,No
+CUST01315,New,Mobile,Email,South,25-34,No
+CUST01316,Returning,Mobile,Social Media,West,45-54,Yes
+CUST01317,Returning,Mobile,Social Media,South,25-34,No
+CUST01318,New,Mobile,Email,West,55+,No
+CUST01319,Returning,Desktop,Social Media,West,25-34,No
+CUST01320,Loyal,Desktop,Email,West,18-24,No
+CUST01321,Returning,Desktop,Paid Search,South,25-34,No
+CUST01322,Returning,Desktop,Paid Search,West,45-54,No
+CUST01323,New,Mobile,Direct,North,25-34,No
+CUST01324,Loyal,Mobile,Organic Search,North,35-44,Yes
+CUST01325,New,Desktop,Email,East,18-24,No
+CUST01326,Loyal,Mobile,Organic Search,West,35-44,No
+CUST01327,New,Mobile,Direct,West,25-34,No
+CUST01328,Returning,Mobile,Social Media,West,18-24,No
+CUST01329,New,Tablet,Paid Search,Central,35-44,Yes
+CUST01330,New,Desktop,Paid Search,West,35-44,No
+CUST01331,Returning,Mobile,Social Media,North,25-34,Yes
+CUST01332,Returning,Desktop,Referral,South,25-34,Yes
+CUST01333,Returning,Mobile,Social Media,South,18-24,No
+CUST01334,Loyal,Mobile,Social Media,South,55+,No
+CUST01335,Loyal,Mobile,Direct,North,35-44,No
+CUST01336,Loyal,Mobile,Paid Search,Central,35-44,No
+CUST01337,New,Desktop,Social Media,Central,35-44,Yes
+CUST01338,Returning,Mobile,Paid Search,West,45-54,No
+CUST01339,Loyal,Desktop,Organic Search,East,18-24,No
+CUST01340,New,Mobile,Direct,West,25-34,No
+CUST01341,New,Desktop,Direct,Central,35-44,No
+CUST01342,Loyal,Desktop,Direct,Central,18-24,No
+CUST01343,Returning,Desktop,Direct,South,18-24,No
+CUST01344,Returning,Mobile,Social Media,South,35-44,No
+CUST01345,Loyal,Tablet,Paid Search,West,45-54,No
+CUST01346,Returning,Mobile,Email,North,35-44,No
+CUST01347,Returning,Desktop,Referral,East,18-24,No
+CUST01348,New,Desktop,Direct,North,55+,No
+CUST01349,Returning,Mobile,Social Media,East,18-24,No
+CUST01350,New,Mobile,Email,East,25-34,No
+CUST01351,Loyal,Mobile,Direct,Central,55+,No
+CUST01352,Loyal,Mobile,Direct,Central,35-44,No
+CUST01353,New,Mobile,Direct,South,45-54,No
+CUST01354,New,Mobile,Social Media,South,35-44,Yes
+CUST01355,Loyal,Mobile,Paid Search,West,35-44,Yes
+CUST01356,New,Mobile,Social Media,North,25-34,No
+CUST01357,Returning,Desktop,Paid Search,South,25-34,No
+CUST01358,Returning,Mobile,Referral,North,55+,No
+CUST01359,Returning,Desktop,Social Media,West,45-54,Yes
+CUST01360,New,Mobile,Social Media,West,25-34,No
+CUST01361,Returning,Mobile,Paid Search,Central,25-34,No
+CUST01362,New,Mobile,Email,West,25-34,Yes
+CUST01363,Returning,Desktop,Social Media,Central,25-34,Yes
+CUST01364,New,Mobile,Organic Search,South,45-54,No
+CUST01365,Returning,Tablet,Direct,Central,18-24,Yes
+CUST01366,Returning,Mobile,Paid Search,North,25-34,No
+CUST01367,New,Mobile,Social Media,West,55+,No
+CUST01368,New,Mobile,Organic Search,East,25-34,No
+CUST01369,New,Desktop,Social Media,North,25-34,Yes
+CUST01370,New,Mobile,Email,West,25-34,No
+CUST01371,New,Mobile,Direct,East,18-24,No
+CUST01372,Loyal,Mobile,Organic Search,Central,25-34,No
+CUST01373,Returning,Mobile,Referral,Central,18-24,No
+CUST01374,Loyal,Mobile,Email,West,18-24,No
+CUST01375,Loyal,Tablet,Paid Search,South,18-24,No
+CUST01376,New,Mobile,Organic Search,North,25-34,No
+CUST01377,Returning,Mobile,Paid Search,North,18-24,No
+CUST01378,Loyal,Tablet,Direct,South,55+,Yes
+CUST01379,Returning,Mobile,Paid Search,North,18-24,Yes
+CUST01380,Returning,Mobile,Social Media,Central,25-34,No
+CUST01381,Returning,Desktop,Email,East,45-54,No
+CUST01382,New,Desktop,Direct,South,18-24,No
+CUST01383,Returning,Desktop,Email,Central,25-34,No
+CUST01384,Loyal,Mobile,Direct,Central,45-54,No
+CUST01385,Loyal,Tablet,Organic Search,East,25-34,Yes
+CUST01386,New,Mobile,Direct,East,25-34,No
+CUST01387,Returning,Tablet,Paid Search,South,35-44,Yes
+CUST01388,New,Desktop,Organic Search,Central,35-44,No
+CUST01389,Loyal,Desktop,Referral,Central,25-34,No
+CUST01390,New,Mobile,Organic Search,Central,18-24,No
+CUST01391,Loyal,Mobile,Organic Search,East,18-24,No
+CUST01392,Loyal,Desktop,Email,North,45-54,No
+CUST01393,New,Mobile,Paid Search,South,25-34,No
+CUST01394,New,Mobile,Organic Search,South,18-24,Yes
+CUST01395,Loyal,Desktop,Email,South,25-34,No
+CUST01396,New,Desktop,Direct,West,45-54,No
+CUST01397,Returning,Mobile,Direct,North,18-24,Yes
+CUST01398,Loyal,Mobile,Organic Search,North,18-24,No
+CUST01399,Returning,Mobile,Social Media,Central,25-34,Yes
+CUST01400,Returning,Mobile,Direct,West,35-44,No
+CUST01401,Returning,Mobile,Organic Search,West,25-34,Yes
+CUST01402,New,Desktop,Organic Search,East,45-54,No
+CUST01403,Loyal,Desktop,Organic Search,East,18-24,Yes
+CUST01404,New,Mobile,Social Media,Central,25-34,No
+CUST01405,New,Mobile,Organic Search,Central,25-34,Yes
+CUST01406,New,Desktop,Direct,West,25-34,No
+CUST01407,Loyal,Desktop,Referral,South,25-34,Yes
+CUST01408,New,Desktop,Organic Search,North,35-44,No
+CUST01409,Loyal,Mobile,Email,Central,25-34,No
+CUST01410,Returning,Desktop,Organic Search,West,35-44,Yes
+CUST01411,Loyal,Mobile,Organic Search,Central,18-24,No
+CUST01412,Loyal,Mobile,Direct,West,25-34,No
+CUST01413,Loyal,Desktop,Social Media,South,25-34,No
+CUST01414,Loyal,Mobile,Referral,West,25-34,No
+CUST01415,New,Mobile,Social Media,South,18-24,Yes
+CUST01416,Loyal,Mobile,Organic Search,West,55+,No
+CUST01417,Returning,Mobile,Social Media,Central,45-54,Yes
+CUST01418,Returning,Mobile,Organic Search,South,45-54,No
+CUST01419,Loyal,Desktop,Direct,West,45-54,No
+CUST01420,Loyal,Mobile,Email,Central,18-24,No
+CUST01421,Returning,Mobile,Paid Search,South,25-34,Yes
+CUST01422,Returning,Desktop,Social Media,North,25-34,No
+CUST01423,Returning,Mobile,Email,East,45-54,Yes
+CUST01424,Returning,Desktop,Direct,Central,18-24,No
+CUST01425,New,Mobile,Organic Search,South,25-34,Yes
+CUST01426,Returning,Mobile,Organic Search,South,35-44,Yes
+CUST01427,New,Mobile,Organic Search,Central,18-24,Yes
+CUST01428,New,Desktop,Paid Search,South,35-44,No
+CUST01429,Returning,Mobile,Social Media,West,25-34,Yes
+CUST01430,Returning,Desktop,Organic Search,West,35-44,No
+CUST01431,Loyal,Mobile,Paid Search,East,45-54,No
+CUST01432,Returning,Mobile,Social Media,East,35-44,Yes
+CUST01433,New,Mobile,Organic Search,South,25-34,Yes
+CUST01434,New,Mobile,Direct,Central,18-24,Yes
+CUST01435,New,Mobile,Email,East,18-24,Yes
+CUST01436,Loyal,Mobile,Paid Search,North,18-24,No
+CUST01437,New,Mobile,Social Media,East,25-34,No
+CUST01438,Returning,Desktop,Paid Search,North,25-34,Yes
+CUST01439,Loyal,Mobile,Direct,South,25-34,Yes
+CUST01440,Loyal,Mobile,Social Media,Central,25-34,No
+CUST01441,New,Mobile,Social Media,Central,55+,Yes
+CUST01442,New,Mobile,Direct,West,18-24,No
+CUST01443,New,Mobile,Direct,Central,25-34,No
+CUST01444,New,Mobile,Direct,South,25-34,Yes
+CUST01445,New,Mobile,Organic Search,West,18-24,No
+CUST01446,Returning,Desktop,Organic Search,West,45-54,No
+CUST01447,Loyal,Mobile,Email,East,18-24,No
+CUST01448,Returning,Mobile,Social Media,Central,35-44,No
+CUST01449,Returning,Desktop,Email,West,35-44,No
+CUST01450,New,Mobile,Direct,West,35-44,No
+CUST01451,Loyal,Mobile,Paid Search,North,35-44,No
+CUST01452,Returning,Tablet,Paid Search,East,35-44,No
+CUST01453,Loyal,Tablet,Social Media,Central,25-34,No
+CUST01454,Loyal,Desktop,Paid Search,South,25-34,No
+CUST01455,New,Mobile,Email,East,35-44,No
+CUST01456,New,Mobile,Direct,East,25-34,No
+CUST01457,New,Tablet,Social Media,East,25-34,Yes
+CUST01458,Returning,Tablet,Direct,Central,25-34,Yes
+CUST01459,Loyal,Mobile,Social Media,North,25-34,No
+CUST01460,New,Mobile,Direct,South,25-34,Yes
+CUST01461,Returning,Mobile,Organic Search,East,18-24,No
+CUST01462,Returning,Mobile,Direct,West,25-34,Yes
+CUST01463,New,Desktop,Direct,North,18-24,No
+CUST01464,New,Mobile,Paid Search,West,25-34,No
+CUST01465,Returning,Mobile,Social Media,South,35-44,Yes
+CUST01466,Returning,Mobile,Direct,Central,25-34,Yes
+CUST01467,Returning,Mobile,Paid Search,West,35-44,No
+CUST01468,New,Mobile,Direct,South,18-24,No
+CUST01469,Returning,Mobile,Referral,Central,18-24,No
+CUST01470,New,Mobile,Direct,Central,35-44,Yes
+CUST01471,Loyal,Tablet,Paid Search,East,35-44,Yes
+CUST01472,New,Mobile,Email,East,35-44,Yes
+CUST01473,New,Mobile,Referral,Central,35-44,Yes
+CUST01474,Returning,Mobile,Social Media,Central,35-44,No
+CUST01475,Returning,Mobile,Organic Search,West,35-44,Yes
+CUST01476,Returning,Mobile,Organic Search,North,35-44,Yes
+CUST01477,Returning,Mobile,Direct,North,35-44,No
+CUST01478,Loyal,Mobile,Social Media,South,18-24,No
+CUST01479,Returning,Mobile,Paid Search,South,18-24,No
+CUST01480,Returning,Desktop,Paid Search,West,25-34,No
+CUST01481,Returning,Mobile,Direct,Central,25-34,No
+CUST01482,New,Mobile,Social Media,East,35-44,Yes
+CUST01483,Returning,Mobile,Direct,East,25-34,Yes
+CUST01484,New,Mobile,Direct,Central,25-34,No
+CUST01485,Returning,Mobile,Referral,East,35-44,No
+CUST01486,New,Mobile,Direct,Central,25-34,No
+CUST01487,Loyal,Mobile,Paid Search,West,45-54,Yes
+CUST01488,Returning,Mobile,Email,West,18-24,No
+CUST01489,Loyal,Tablet,Organic Search,East,25-34,No
+CUST01490,Returning,Tablet,Referral,Central,25-34,No
+CUST01491,New,Tablet,Paid Search,West,25-34,No
+CUST01492,Loyal,Mobile,Email,East,18-24,Yes
+CUST01493,Returning,Mobile,Direct,North,25-34,Yes
+CUST01494,Loyal,Mobile,Organic Search,East,25-34,No
+CUST01495,Returning,Mobile,Direct,South,25-34,No
+CUST01496,Returning,Mobile,Organic Search,East,35-44,Yes
+CUST01497,Loyal,Mobile,Social Media,North,18-24,No
+CUST01498,Returning,Mobile,Social Media,West,25-34,No
+CUST01499,New,Mobile,Paid Search,East,18-24,No
+CUST01500,Returning,Mobile,Social Media,East,45-54,No
+CUST01501,Returning,Desktop,Direct,North,35-44,No
+CUST01502,Loyal,Mobile,Paid Search,West,55+,Yes
+CUST01503,New,Desktop,Social Media,East,45-54,No
+CUST01504,Returning,Mobile,Direct,East,25-34,Yes
+CUST01505,Loyal,Mobile,Direct,Central,35-44,No
+CUST01506,Returning,Mobile,Organic Search,South,25-34,No
+CUST01507,Returning,Mobile,Referral,South,45-54,Yes
+CUST01508,Returning,Mobile,Organic Search,Central,25-34,Yes
+CUST01509,New,Mobile,Social Media,East,25-34,No
+CUST01510,Returning,Mobile,Social Media,South,45-54,No
+CUST01511,New,Mobile,Direct,South,45-54,No
+CUST01512,New,Mobile,Organic Search,West,55+,No
+CUST01513,Returning,Desktop,Organic Search,North,18-24,No
+CUST01514,Returning,Mobile,Direct,South,25-34,No
+CUST01515,Loyal,Mobile,Organic Search,South,25-34,No
+CUST01516,New,Mobile,Social Media,West,25-34,Yes
+CUST01517,New,Mobile,Direct,South,25-34,Yes
+CUST01518,Loyal,Mobile,Email,South,25-34,No
+CUST01519,New,Mobile,Organic Search,East,35-44,No
+CUST01520,New,Desktop,Paid Search,North,25-34,Yes
+CUST01521,New,Mobile,Referral,North,35-44,No
+CUST01522,Returning,Mobile,Social Media,West,45-54,Yes
+CUST01523,Loyal,Mobile,Organic Search,East,35-44,No
+CUST01524,Returning,Desktop,Organic Search,East,25-34,Yes
+CUST01525,Returning,Desktop,Paid Search,South,18-24,No
+CUST01526,New,Tablet,Referral,Central,18-24,Yes
+CUST01527,New,Desktop,Paid Search,North,35-44,No
+CUST01528,Returning,Desktop,Organic Search,Central,25-34,Yes
+CUST01529,New,Mobile,Social Media,Central,18-24,No
+CUST01530,New,Desktop,Organic Search,South,55+,No
+CUST01531,New,Mobile,Paid Search,North,35-44,Yes
+CUST01532,New,Mobile,Referral,Central,45-54,No
+CUST01533,Returning,Desktop,Email,South,25-34,No
+CUST01534,Returning,Mobile,Organic Search,Central,55+,No
+CUST01535,New,Mobile,Social Media,Central,18-24,No
+CUST01536,Returning,Mobile,Organic Search,East,18-24,No
+CUST01537,Loyal,Mobile,Organic Search,South,45-54,No
+CUST01538,Returning,Desktop,Social Media,South,45-54,No
+CUST01539,Loyal,Mobile,Social Media,Central,25-34,No
+CUST01540,Returning,Desktop,Direct,West,18-24,Yes
+CUST01541,Loyal,Mobile,Direct,Central,25-34,No
+CUST01542,New,Desktop,Paid Search,North,35-44,Yes
+CUST01543,New,Mobile,Referral,West,45-54,No
+CUST01544,New,Desktop,Social Media,East,25-34,Yes
+CUST01545,Returning,Mobile,Paid Search,West,18-24,Yes
+CUST01546,Returning,Mobile,Direct,Central,35-44,No
+CUST01547,New,Mobile,Organic Search,South,35-44,No
+CUST01548,Returning,Mobile,Social Media,South,25-34,Yes
+CUST01549,New,Mobile,Direct,Central,35-44,No
+CUST01550,New,Desktop,Paid Search,West,55+,No
+CUST01551,New,Tablet,Direct,South,25-34,No
+CUST01552,Returning,Desktop,Paid Search,West,25-34,No
+CUST01553,New,Mobile,Direct,Central,35-44,Yes
+CUST01554,New,Mobile,Organic Search,North,25-34,Yes
+CUST01555,New,Desktop,Organic Search,Central,45-54,No
+CUST01556,Returning,Desktop,Paid Search,South,35-44,Yes
+CUST01557,Loyal,Mobile,Direct,South,25-34,No
+CUST01558,Returning,Tablet,Organic Search,Central,18-24,No
+CUST01559,Returning,Mobile,Direct,South,35-44,No
+CUST01560,Loyal,Desktop,Organic Search,West,18-24,Yes
+CUST01561,Loyal,Tablet,Social Media,North,18-24,No
+CUST01562,Returning,Desktop,Paid Search,North,25-34,No
+CUST01563,Loyal,Mobile,Organic Search,East,25-34,Yes
+CUST01564,Loyal,Mobile,Referral,North,55+,Yes
+CUST01565,Loyal,Mobile,Social Media,North,35-44,Yes
+CUST01566,Returning,Desktop,Email,West,45-54,No
+CUST01567,New,Mobile,Social Media,East,25-34,No
+CUST01568,New,Desktop,Social Media,North,25-34,No
+CUST01569,Returning,Desktop,Email,North,55+,Yes
+CUST01570,Returning,Mobile,Direct,East,25-34,No
+CUST01571,Returning,Mobile,Email,South,35-44,Yes
+CUST01572,Returning,Desktop,Social Media,East,25-34,Yes
+CUST01573,Returning,Mobile,Email,East,25-34,Yes
+CUST01574,Loyal,Mobile,Email,North,35-44,No
+CUST01575,New,Mobile,Social Media,West,25-34,No
+CUST01576,New,Mobile,Email,Central,18-24,No
+CUST01577,Loyal,Desktop,Social Media,East,25-34,No
+CUST01578,Loyal,Mobile,Direct,West,18-24,Yes
+CUST01579,Loyal,Mobile,Referral,South,25-34,No
+CUST01580,Loyal,Mobile,Referral,West,45-54,Yes
+CUST01581,Loyal,Mobile,Direct,Central,25-34,No
+CUST01582,New,Mobile,Email,South,45-54,No
+CUST01583,Returning,Desktop,Direct,Central,25-34,Yes
+CUST01584,New,Mobile,Organic Search,Central,18-24,Yes
+CUST01585,Returning,Mobile,Social Media,East,18-24,Yes
+CUST01586,Loyal,Desktop,Paid Search,North,45-54,Yes
+CUST01587,New,Mobile,Organic Search,South,35-44,No
+CUST01588,Returning,Mobile,Referral,East,45-54,Yes
+CUST01589,New,Mobile,Direct,North,25-34,No
+CUST01590,New,Mobile,Social Media,South,35-44,No
+CUST01591,New,Mobile,Paid Search,South,35-44,No
+CUST01592,New,Desktop,Email,North,55+,No
+CUST01593,Loyal,Desktop,Social Media,Central,18-24,No
+CUST01594,Returning,Mobile,Direct,South,55+,Yes
+CUST01595,Loyal,Mobile,Referral,East,25-34,Yes
+CUST01596,Returning,Mobile,Paid Search,West,45-54,No
+CUST01597,New,Mobile,Paid Search,Central,25-34,No
+CUST01598,New,Desktop,Paid Search,East,25-34,No
+CUST01599,Loyal,Desktop,Organic Search,East,25-34,Yes
+CUST01600,New,Desktop,Paid Search,West,45-54,No
+CUST01601,Loyal,Mobile,Organic Search,Central,25-34,No
+CUST01602,New,Desktop,Organic Search,South,25-34,No
+CUST01603,Returning,Mobile,Paid Search,East,25-34,Yes
+CUST01604,Loyal,Mobile,Organic Search,West,35-44,Yes
+CUST01605,New,Desktop,Direct,Central,25-34,No
+CUST01606,New,Mobile,Organic Search,West,35-44,No
+CUST01607,Loyal,Desktop,Direct,North,25-34,Yes
+CUST01608,New,Desktop,Organic Search,North,35-44,Yes
+CUST01609,Returning,Desktop,Organic Search,South,35-44,No
+CUST01610,Returning,Mobile,Organic Search,South,35-44,No
+CUST01611,New,Mobile,Direct,Central,45-54,No
+CUST01612,Returning,Desktop,Paid Search,East,25-34,No
+CUST01613,Returning,Desktop,Social Media,North,18-24,Yes
+CUST01614,New,Mobile,Organic Search,South,35-44,Yes
+CUST01615,Loyal,Desktop,Referral,North,18-24,No
+CUST01616,New,Mobile,Organic Search,South,25-34,No
+CUST01617,New,Mobile,Paid Search,South,35-44,Yes
+CUST01618,Returning,Desktop,Direct,West,25-34,No
+CUST01619,Loyal,Mobile,Paid Search,East,25-34,Yes
+CUST01620,New,Mobile,Paid Search,Central,55+,Yes
+CUST01621,New,Tablet,Direct,Central,25-34,No
+CUST01622,Returning,Desktop,Paid Search,Central,18-24,Yes
+CUST01623,Loyal,Desktop,Organic Search,West,18-24,Yes
+CUST01624,New,Mobile,Social Media,West,25-34,No
+CUST01625,Returning,Tablet,Organic Search,West,35-44,No
+CUST01626,Returning,Mobile,Direct,East,35-44,No
+CUST01627,New,Mobile,Email,East,25-34,No
+CUST01628,New,Mobile,Social Media,West,25-34,Yes
+CUST01629,New,Desktop,Organic Search,Central,25-34,No
+CUST01630,Returning,Desktop,Email,West,18-24,Yes
+CUST01631,Returning,Desktop,Email,North,35-44,Yes
+CUST01632,Loyal,Desktop,Organic Search,North,35-44,No
+CUST01633,Returning,Mobile,Direct,West,18-24,Yes
+CUST01634,Returning,Mobile,Social Media,Central,45-54,No
+CUST01635,Loyal,Mobile,Direct,East,35-44,No
+CUST01636,Returning,Mobile,Paid Search,Central,25-34,No
+CUST01637,Returning,Mobile,Organic Search,South,35-44,No
+CUST01638,Loyal,Desktop,Email,West,35-44,Yes
+CUST01639,New,Desktop,Direct,South,18-24,No
+CUST01640,Returning,Desktop,Paid Search,North,18-24,No
+CUST01641,Returning,Mobile,Organic Search,Central,35-44,No
+CUST01642,New,Mobile,Direct,East,45-54,No
+CUST01643,Returning,Mobile,Organic Search,East,25-34,Yes
+CUST01644,New,Mobile,Paid Search,North,25-34,Yes
+CUST01645,New,Mobile,Email,Central,35-44,No
+CUST01646,Returning,Mobile,Organic Search,East,25-34,No
+CUST01647,New,Mobile,Organic Search,South,18-24,Yes
+CUST01648,Loyal,Desktop,Organic Search,Central,25-34,No
+CUST01649,Loyal,Mobile,Direct,North,45-54,No
+CUST01650,Loyal,Mobile,Paid Search,Central,35-44,No
+CUST01651,New,Mobile,Email,South,45-54,Yes
+CUST01652,New,Mobile,Referral,West,18-24,No
+CUST01653,New,Mobile,Email,Central,25-34,No
+CUST01654,New,Mobile,Social Media,South,35-44,No
+CUST01655,Loyal,Mobile,Social Media,East,25-34,Yes
+CUST01656,Returning,Mobile,Paid Search,North,25-34,No
+CUST01657,New,Desktop,Email,South,35-44,No
+CUST01658,Loyal,Mobile,Referral,Central,35-44,No
+CUST01659,Returning,Mobile,Direct,South,35-44,Yes
+CUST01660,New,Mobile,Social Media,North,25-34,Yes
+CUST01661,New,Mobile,Paid Search,West,25-34,No
+CUST01662,Returning,Mobile,Direct,East,18-24,Yes
+CUST01663,Loyal,Desktop,Organic Search,East,18-24,Yes
+CUST01664,New,Mobile,Direct,South,25-34,No
+CUST01665,Loyal,Desktop,Paid Search,Central,25-34,Yes
+CUST01666,Loyal,Mobile,Direct,East,55+,No
+CUST01667,Loyal,Mobile,Direct,South,25-34,No
+CUST01668,New,Mobile,Social Media,North,18-24,No
+CUST01669,New,Mobile,Organic Search,East,18-24,Yes
+CUST01670,Loyal,Mobile,Direct,West,35-44,No
+CUST01671,New,Tablet,Paid Search,West,18-24,No
+CUST01672,Returning,Desktop,Paid Search,South,18-24,No
+CUST01673,Returning,Tablet,Social Media,West,25-34,Yes
+CUST01674,New,Mobile,Social Media,Central,25-34,Yes
+CUST01675,Loyal,Desktop,Email,West,35-44,No
+CUST01676,Loyal,Mobile,Organic Search,East,25-34,Yes
+CUST01677,Returning,Mobile,Social Media,East,18-24,No
+CUST01678,Returning,Tablet,Direct,North,35-44,Yes
+CUST01679,Loyal,Desktop,Organic Search,North,25-34,Yes
+CUST01680,Returning,Desktop,Social Media,South,35-44,No
+CUST01681,Returning,Desktop,Email,North,18-24,No
+CUST01682,Loyal,Mobile,Direct,East,35-44,No
+CUST01683,Returning,Desktop,Email,West,25-34,No
+CUST01684,New,Mobile,Direct,North,25-34,No
+CUST01685,New,Desktop,Organic Search,West,25-34,No
+CUST01686,New,Desktop,Paid Search,South,55+,Yes
+CUST01687,Returning,Mobile,Referral,Central,25-34,No
+CUST01688,Returning,Mobile,Direct,West,45-54,No
+CUST01689,Returning,Mobile,Social Media,North,45-54,No
+CUST01690,Returning,Mobile,Social Media,Central,25-34,No
+CUST01691,Loyal,Mobile,Social Media,West,25-34,No
+CUST01692,Loyal,Desktop,Organic Search,North,25-34,No
+CUST01693,New,Mobile,Direct,West,55+,No
+CUST01694,Returning,Desktop,Direct,South,35-44,No
+CUST01695,Returning,Mobile,Social Media,South,25-34,No
+CUST01696,Returning,Mobile,Paid Search,East,18-24,No
+CUST01697,New,Mobile,Paid Search,East,45-54,Yes
+CUST01698,Loyal,Desktop,Organic Search,East,18-24,No
+CUST01699,Loyal,Mobile,Direct,East,18-24,Yes
+CUST01700,Returning,Mobile,Social Media,East,25-34,No
+CUST01701,Loyal,Mobile,Paid Search,South,25-34,No
+CUST01702,Loyal,Desktop,Email,Central,45-54,Yes
+CUST01703,New,Mobile,Referral,North,35-44,Yes
+CUST01704,Returning,Mobile,Organic Search,Central,18-24,No
+CUST01705,Returning,Desktop,Social Media,South,25-34,No
+CUST01706,Loyal,Desktop,Social Media,Central,35-44,Yes
+CUST01707,New,Mobile,Organic Search,South,25-34,Yes
+CUST01708,Returning,Mobile,Social Media,East,18-24,No
+CUST01709,Loyal,Mobile,Email,North,25-34,No
+CUST01710,New,Mobile,Organic Search,North,35-44,No
+CUST01711,Loyal,Desktop,Organic Search,South,55+,Yes
+CUST01712,Returning,Mobile,Direct,South,35-44,No
+CUST01713,Loyal,Mobile,Paid Search,East,18-24,No
+CUST01714,Loyal,Mobile,Email,South,35-44,No
+CUST01715,New,Mobile,Email,Central,25-34,No
+CUST01716,Returning,Mobile,Direct,East,45-54,No
+CUST01717,New,Desktop,Direct,North,25-34,No
+CUST01718,Returning,Mobile,Direct,Central,18-24,Yes
+CUST01719,Returning,Tablet,Email,East,25-34,Yes
+CUST01720,Loyal,Desktop,Social Media,East,25-34,No
+CUST01721,New,Mobile,Paid Search,Central,25-34,Yes
+CUST01722,New,Mobile,Paid Search,East,25-34,No
+CUST01723,Returning,Mobile,Paid Search,South,35-44,No
+CUST01724,Returning,Mobile,Organic Search,Central,45-54,No
+CUST01725,Returning,Mobile,Social Media,North,25-34,Yes
+CUST01726,New,Desktop,Paid Search,North,18-24,Yes
+CUST01727,New,Mobile,Organic Search,North,25-34,No
+CUST01728,Loyal,Mobile,Paid Search,West,25-34,No
+CUST01729,New,Mobile,Direct,West,18-24,Yes
+CUST01730,Returning,Mobile,Social Media,North,45-54,No
+CUST01731,Loyal,Tablet,Direct,Central,55+,Yes
+CUST01732,New,Mobile,Social Media,Central,18-24,Yes
+CUST01733,Returning,Desktop,Direct,Central,35-44,No
+CUST01734,New,Desktop,Direct,East,35-44,No
+CUST01735,Loyal,Mobile,Organic Search,West,25-34,No
+CUST01736,Returning,Mobile,Referral,South,35-44,No
+CUST01737,Loyal,Mobile,Organic Search,North,18-24,No
+CUST01738,New,Desktop,Email,West,18-24,Yes
+CUST01739,Returning,Mobile,Direct,West,55+,No
+CUST01740,Returning,Desktop,Paid Search,East,35-44,Yes
+CUST01741,New,Desktop,Email,West,25-34,No
+CUST01742,New,Desktop,Paid Search,North,25-34,No
+CUST01743,New,Mobile,Organic Search,North,55+,No
+CUST01744,Loyal,Mobile,Organic Search,North,25-34,Yes
+CUST01745,Returning,Desktop,Organic Search,West,45-54,No
+CUST01746,Returning,Mobile,Organic Search,West,45-54,No
+CUST01747,Returning,Desktop,Email,Central,25-34,No
+CUST01748,Returning,Mobile,Social Media,North,35-44,No
+CUST01749,Returning,Mobile,Social Media,West,35-44,No
+CUST01750,Returning,Desktop,Email,South,35-44,No
+CUST01751,Returning,Mobile,Organic Search,North,25-34,No
+CUST01752,New,Mobile,Paid Search,North,18-24,No
+CUST01753,Loyal,Mobile,Direct,West,18-24,No
+CUST01754,Loyal,Mobile,Direct,South,35-44,No
+CUST01755,New,Desktop,Social Media,East,35-44,No
+CUST01756,Returning,Mobile,Organic Search,Central,35-44,No
+CUST01757,New,Mobile,Direct,North,35-44,No
+CUST01758,Loyal,Mobile,Direct,North,18-24,No
+CUST01759,Loyal,Tablet,Paid Search,West,18-24,No
+CUST01760,Loyal,Mobile,Paid Search,North,35-44,No
+CUST01761,New,Tablet,Organic Search,South,25-34,No
+CUST01762,New,Desktop,Email,North,35-44,No
+CUST01763,New,Mobile,Direct,East,18-24,No
+CUST01764,New,Desktop,Email,North,25-34,Yes
+CUST01765,New,Desktop,Paid Search,West,45-54,Yes
+CUST01766,New,Mobile,Email,East,18-24,Yes
+CUST01767,Loyal,Mobile,Direct,Central,18-24,No
+CUST01768,New,Desktop,Social Media,West,35-44,No
+CUST01769,New,Desktop,Direct,North,35-44,No
+CUST01770,Loyal,Desktop,Paid Search,East,55+,Yes
+CUST01771,Returning,Tablet,Paid Search,West,45-54,No
+CUST01772,Returning,Mobile,Social Media,West,35-44,No
+CUST01773,Returning,Desktop,Social Media,East,18-24,No
+CUST01774,Loyal,Desktop,Referral,Central,25-34,Yes
+CUST01775,Returning,Mobile,Social Media,West,45-54,Yes
+CUST01776,Returning,Mobile,Paid Search,North,25-34,Yes
+CUST01777,Returning,Mobile,Paid Search,North,55+,No
+CUST01778,Returning,Desktop,Social Media,North,35-44,No
+CUST01779,New,Mobile,Paid Search,North,18-24,Yes
+CUST01780,Returning,Desktop,Direct,North,25-34,No
+CUST01781,New,Mobile,Paid Search,East,35-44,Yes
+CUST01782,Loyal,Mobile,Paid Search,South,18-24,No
+CUST01783,New,Mobile,Email,East,25-34,Yes
+CUST01784,New,Mobile,Organic Search,North,35-44,Yes
+CUST01785,New,Desktop,Email,West,18-24,Yes
+CUST01786,Loyal,Mobile,Social Media,North,25-34,No
+CUST01787,New,Desktop,Social Media,East,35-44,No
+CUST01788,Returning,Mobile,Direct,South,35-44,No
+CUST01789,Loyal,Tablet,Direct,North,25-34,Yes
+CUST01790,New,Mobile,Direct,East,55+,No
+CUST01791,Returning,Mobile,Paid Search,East,45-54,No
+CUST01792,New,Mobile,Paid Search,North,25-34,No
+CUST01793,New,Mobile,Direct,South,18-24,Yes
+CUST01794,Returning,Mobile,Social Media,North,35-44,No
+CUST01795,Loyal,Desktop,Email,South,25-34,No
+CUST01796,New,Mobile,Social Media,South,45-54,No
+CUST01797,Returning,Mobile,Direct,Central,35-44,No
+CUST01798,New,Mobile,Organic Search,Central,25-34,No
+CUST01799,Returning,Mobile,Social Media,Central,25-34,No
+CUST01800,Returning,Desktop,Organic Search,South,25-34,Yes
+CUST01801,Returning,Mobile,Paid Search,North,45-54,Yes
+CUST01802,Returning,Desktop,Email,North,25-34,No
+CUST01803,New,Tablet,Social Media,South,45-54,Yes
+CUST01804,Returning,Mobile,Paid Search,East,18-24,No
+CUST01805,Returning,Mobile,Direct,South,35-44,Yes
+CUST01806,Returning,Mobile,Direct,North,45-54,Yes
+CUST01807,New,Mobile,Social Media,North,25-34,Yes
+CUST01808,Returning,Mobile,Referral,Central,18-24,No
+CUST01809,Returning,Tablet,Social Media,South,35-44,No
+CUST01810,New,Desktop,Direct,Central,45-54,No
+CUST01811,New,Mobile,Organic Search,Central,25-34,Yes
+CUST01812,Returning,Desktop,Paid Search,Central,25-34,No
+CUST01813,Returning,Mobile,Paid Search,West,35-44,No
+CUST01814,New,Desktop,Organic Search,East,18-24,No
+CUST01815,Loyal,Mobile,Social Media,West,35-44,No
+CUST01816,Returning,Mobile,Organic Search,South,25-34,Yes
+CUST01817,Returning,Tablet,Email,Central,18-24,No
+CUST01818,Returning,Desktop,Organic Search,Central,45-54,No
+CUST01819,Returning,Desktop,Organic Search,South,25-34,Yes
+CUST01820,Returning,Mobile,Referral,South,45-54,No
+CUST01821,Loyal,Desktop,Email,Central,25-34,No
+CUST01822,Returning,Mobile,Referral,South,25-34,Yes
+CUST01823,Returning,Mobile,Social Media,East,25-34,No
+CUST01824,Returning,Mobile,Organic Search,North,25-34,Yes
+CUST01825,Returning,Mobile,Social Media,West,45-54,Yes
+CUST01826,New,Mobile,Social Media,South,35-44,No
+CUST01827,Returning,Mobile,Organic Search,South,35-44,No
+CUST01828,Returning,Desktop,Direct,West,25-34,No
+CUST01829,Loyal,Desktop,Email,West,25-34,No
+CUST01830,Returning,Desktop,Direct,East,18-24,No
+CUST01831,Returning,Mobile,Social Media,West,35-44,No
+CUST01832,Loyal,Tablet,Email,Central,25-34,No
+CUST01833,Returning,Mobile,Paid Search,South,25-34,Yes
+CUST01834,New,Mobile,Referral,Central,25-34,No
+CUST01835,New,Desktop,Paid Search,Central,25-34,No
+CUST01836,New,Mobile,Organic Search,Central,35-44,No
+CUST01837,New,Mobile,Organic Search,East,35-44,No
+CUST01838,Returning,Mobile,Email,West,55+,Yes
+CUST01839,Returning,Mobile,Referral,East,18-24,No
+CUST01840,Returning,Desktop,Direct,East,25-34,No
+CUST01841,New,Mobile,Email,West,18-24,No
+CUST01842,Returning,Mobile,Referral,West,35-44,No
+CUST01843,New,Mobile,Direct,East,35-44,No
+CUST01844,Loyal,Mobile,Paid Search,Central,25-34,No
+CUST01845,New,Desktop,Email,North,35-44,No
+CUST01846,Returning,Tablet,Organic Search,South,25-34,No
+CUST01847,New,Desktop,Organic Search,South,25-34,Yes
+CUST01848,Returning,Desktop,Paid Search,Central,25-34,Yes
+CUST01849,Returning,Mobile,Organic Search,East,18-24,No
+CUST01850,Returning,Desktop,Referral,West,45-54,No
+CUST01851,New,Mobile,Referral,West,35-44,Yes
+CUST01852,Loyal,Mobile,Paid Search,North,35-44,Yes
+CUST01853,Returning,Desktop,Email,North,45-54,No
+CUST01854,Returning,Mobile,Paid Search,South,35-44,No
+CUST01855,Loyal,Desktop,Organic Search,North,25-34,No
+CUST01856,Loyal,Desktop,Paid Search,West,18-24,No
+CUST01857,New,Tablet,Paid Search,North,25-34,No
+CUST01858,New,Mobile,Paid Search,Central,45-54,No
+CUST01859,New,Mobile,Organic Search,North,55+,No
+CUST01860,New,Desktop,Organic Search,North,35-44,Yes
+CUST01861,Returning,Mobile,Organic Search,East,25-34,No
+CUST01862,Loyal,Mobile,Direct,East,18-24,Yes
+CUST01863,Loyal,Desktop,Organic Search,West,45-54,Yes
+CUST01864,Returning,Tablet,Paid Search,East,18-24,Yes
+CUST01865,Returning,Desktop,Social Media,North,35-44,Yes
+CUST01866,Loyal,Mobile,Paid Search,Central,25-34,No
+CUST01867,Loyal,Mobile,Social Media,North,25-34,No
+CUST01868,New,Mobile,Organic Search,South,35-44,No
+CUST01869,Returning,Mobile,Email,Central,55+,No
+CUST01870,Loyal,Mobile,Social Media,South,35-44,No
+CUST01871,New,Mobile,Email,South,25-34,Yes
+CUST01872,Returning,Mobile,Social Media,South,25-34,No
+CUST01873,Loyal,Mobile,Social Media,West,45-54,No
+CUST01874,Loyal,Mobile,Paid Search,North,25-34,No
+CUST01875,Loyal,Mobile,Organic Search,West,25-34,No
+CUST01876,Loyal,Mobile,Social Media,South,35-44,Yes
+CUST01877,New,Desktop,Organic Search,North,25-34,No
+CUST01878,New,Mobile,Paid Search,Central,18-24,No
+CUST01879,Returning,Desktop,Email,East,45-54,No
+CUST01880,Returning,Mobile,Organic Search,East,35-44,Yes
+CUST01881,Returning,Mobile,Organic Search,South,18-24,No
+CUST01882,Returning,Mobile,Email,South,25-34,No
+CUST01883,Returning,Mobile,Paid Search,South,55+,No
+CUST01884,Returning,Mobile,Direct,West,35-44,No
+CUST01885,New,Desktop,Referral,East,35-44,Yes
+CUST01886,New,Desktop,Referral,West,18-24,No
+CUST01887,New,Mobile,Social Media,North,55+,Yes
+CUST01888,New,Mobile,Paid Search,North,45-54,Yes
+CUST01889,Loyal,Desktop,Email,Central,25-34,Yes
+CUST01890,Returning,Mobile,Email,Central,25-34,No
+CUST01891,New,Mobile,Email,South,35-44,No
+CUST01892,Returning,Desktop,Paid Search,East,45-54,Yes
+CUST01893,Returning,Mobile,Organic Search,East,35-44,Yes
+CUST01894,New,Desktop,Organic Search,North,55+,No
+CUST01895,New,Mobile,Organic Search,South,35-44,No
+CUST01896,New,Mobile,Organic Search,South,25-34,Yes
+CUST01897,Returning,Mobile,Referral,West,25-34,No
+CUST01898,New,Desktop,Organic Search,East,45-54,Yes
+CUST01899,New,Mobile,Email,West,25-34,No
+CUST01900,New,Desktop,Referral,South,25-34,Yes
+CUST01901,Returning,Desktop,Paid Search,Central,35-44,No
+CUST01902,New,Desktop,Social Media,Central,25-34,No
+CUST01903,Loyal,Mobile,Email,North,45-54,No
+CUST01904,New,Mobile,Paid Search,East,18-24,No
+CUST01905,Returning,Mobile,Social Media,Central,25-34,No
+CUST01906,Returning,Mobile,Direct,East,25-34,No
+CUST01907,Returning,Desktop,Direct,West,35-44,No
+CUST01908,New,Mobile,Direct,Central,35-44,No
+CUST01909,Loyal,Desktop,Referral,North,25-34,No
+CUST01910,Loyal,Mobile,Paid Search,East,25-34,Yes
+CUST01911,New,Mobile,Direct,North,18-24,Yes
+CUST01912,New,Mobile,Email,East,35-44,Yes
+CUST01913,Loyal,Desktop,Email,West,55+,No
+CUST01914,Returning,Mobile,Direct,Central,35-44,Yes
+CUST01915,New,Mobile,Direct,West,25-34,Yes
+CUST01916,New,Desktop,Direct,Central,35-44,No
+CUST01917,Returning,Mobile,Paid Search,North,25-34,Yes
+CUST01918,Returning,Mobile,Email,South,18-24,Yes
+CUST01919,Returning,Mobile,Paid Search,South,18-24,No
+CUST01920,Loyal,Mobile,Email,North,18-24,Yes
+CUST01921,Returning,Mobile,Direct,East,18-24,No
+CUST01922,New,Mobile,Direct,Central,35-44,Yes
+CUST01923,Returning,Mobile,Social Media,North,25-34,No
+CUST01924,New,Mobile,Social Media,South,35-44,No
+CUST01925,New,Mobile,Paid Search,North,55+,Yes
+CUST01926,New,Mobile,Organic Search,South,25-34,Yes
+CUST01927,New,Mobile,Paid Search,West,25-34,No
+CUST01928,Returning,Mobile,Direct,Central,35-44,No
+CUST01929,New,Mobile,Paid Search,West,18-24,Yes
+CUST01930,Returning,Mobile,Referral,South,25-34,No
+CUST01931,Returning,Mobile,Paid Search,North,25-34,No
+CUST01932,Returning,Desktop,Direct,North,45-54,No
+CUST01933,Returning,Desktop,Social Media,East,45-54,Yes
+CUST01934,Loyal,Mobile,Email,West,45-54,Yes
+CUST01935,Returning,Mobile,Email,East,35-44,No
+CUST01936,New,Mobile,Email,North,25-34,Yes
+CUST01937,Returning,Desktop,Direct,South,45-54,Yes
+CUST01938,Returning,Mobile,Social Media,North,45-54,Yes
+CUST01939,New,Mobile,Organic Search,South,25-34,Yes
+CUST01940,New,Mobile,Paid Search,West,55+,No
+CUST01941,New,Mobile,Email,West,45-54,Yes
+CUST01942,Returning,Mobile,Social Media,North,25-34,No
+CUST01943,Returning,Desktop,Social Media,West,18-24,Yes
+CUST01944,New,Desktop,Email,Central,25-34,No
+CUST01945,Loyal,Mobile,Paid Search,Central,35-44,No
+CUST01946,Loyal,Mobile,Direct,North,18-24,No
+CUST01947,New,Mobile,Direct,South,25-34,No
+CUST01948,Loyal,Mobile,Direct,East,35-44,No
+CUST01949,New,Mobile,Direct,East,45-54,Yes
+CUST01950,Loyal,Mobile,Direct,West,45-54,No
+CUST01951,Loyal,Desktop,Email,West,35-44,No
+CUST01952,New,Tablet,Referral,West,25-34,Yes
+CUST01953,Returning,Desktop,Organic Search,North,18-24,No
+CUST01954,Loyal,Desktop,Email,South,35-44,Yes
+CUST01955,Loyal,Mobile,Direct,North,18-24,No
+CUST01956,Loyal,Mobile,Social Media,North,25-34,No
+CUST01957,Returning,Mobile,Paid Search,East,55+,No
+CUST01958,New,Mobile,Social Media,West,25-34,No
+CUST01959,Loyal,Mobile,Paid Search,Central,35-44,No
+CUST01960,Returning,Desktop,Direct,Central,35-44,No
+CUST01961,Returning,Mobile,Paid Search,East,45-54,No
+CUST01962,Returning,Mobile,Organic Search,East,25-34,No
+CUST01963,Returning,Mobile,Social Media,Central,25-34,No
+CUST01964,New,Tablet,Paid Search,East,18-24,No
+CUST01965,Returning,Mobile,Organic Search,North,35-44,No
+CUST01966,New,Mobile,Social Media,Central,25-34,Yes
+CUST01967,Returning,Mobile,Social Media,South,25-34,No
+CUST01968,Loyal,Desktop,Organic Search,North,35-44,No
+CUST01969,Returning,Tablet,Email,West,18-24,No
+CUST01970,Returning,Mobile,Social Media,South,25-34,No
+CUST01971,New,Desktop,Direct,South,18-24,No
+CUST01972,Loyal,Mobile,Paid Search,Central,25-34,No
+CUST01973,Returning,Desktop,Paid Search,North,18-24,No
+CUST01974,New,Mobile,Referral,Central,18-24,Yes
+CUST01975,New,Mobile,Social Media,South,55+,No
+CUST01976,New,Desktop,Organic Search,East,55+,No
+CUST01977,Returning,Mobile,Direct,West,35-44,No
+CUST01978,Loyal,Mobile,Organic Search,South,35-44,No
+CUST01979,Returning,Desktop,Direct,East,35-44,Yes
+CUST01980,New,Tablet,Email,South,45-54,No
+CUST01981,Loyal,Mobile,Referral,West,25-34,No
+CUST01982,New,Desktop,Referral,West,18-24,No
+CUST01983,Loyal,Desktop,Paid Search,North,35-44,No
+CUST01984,New,Mobile,Direct,Central,55+,No
+CUST01985,Returning,Desktop,Paid Search,Central,25-34,No
+CUST01986,Loyal,Mobile,Email,North,25-34,Yes
+CUST01987,New,Desktop,Email,East,25-34,Yes
+CUST01988,Returning,Mobile,Organic Search,Central,25-34,No
+CUST01989,Loyal,Mobile,Organic Search,Central,35-44,Yes
+CUST01990,New,Mobile,Organic Search,South,25-34,Yes
+CUST01991,New,Mobile,Organic Search,South,55+,Yes
+CUST01992,Returning,Desktop,Paid Search,North,35-44,Yes
+CUST01993,New,Tablet,Direct,East,18-24,No
+CUST01994,New,Mobile,Social Media,East,45-54,Yes
+CUST01995,Returning,Mobile,Direct,East,35-44,Yes
+CUST01996,Returning,Mobile,Direct,Central,25-34,No
+CUST01997,New,Mobile,Direct,East,25-34,No
+CUST01998,New,Mobile,Paid Search,North,45-54,Yes
+CUST01999,Loyal,Desktop,Direct,West,25-34,No
+CUST02000,Returning,Desktop,Direct,East,18-24,Yes
+CUST02001,Loyal,Mobile,Direct,Central,25-34,No
+CUST02002,Returning,Mobile,Direct,East,25-34,Yes
+CUST02003,Loyal,Mobile,Email,Central,35-44,No
+CUST02004,Returning,Mobile,Social Media,South,18-24,Yes
+CUST02005,New,Mobile,Direct,South,35-44,No
+CUST02006,Loyal,Mobile,Social Media,East,25-34,Yes
+CUST02007,Returning,Mobile,Direct,Central,45-54,No
+CUST02008,New,Mobile,Organic Search,North,25-34,No
+CUST02009,New,Desktop,Organic Search,North,45-54,Yes
+CUST02010,Returning,Mobile,Social Media,South,45-54,No
+CUST02011,New,Mobile,Organic Search,West,18-24,No
+CUST02012,New,Mobile,Referral,West,35-44,Yes
+CUST02013,New,Desktop,Organic Search,West,25-34,Yes
+CUST02014,Returning,Mobile,Direct,North,45-54,No
+CUST02015,Returning,Mobile,Paid Search,South,35-44,Yes
+CUST02016,Returning,Mobile,Referral,West,25-34,No
+CUST02017,New,Mobile,Paid Search,West,25-34,No
+CUST02018,New,Mobile,Organic Search,Central,25-34,No
+CUST02019,Returning,Desktop,Organic Search,North,35-44,No
+CUST02020,New,Mobile,Social Media,Central,35-44,No
+CUST02021,Returning,Mobile,Referral,West,18-24,Yes
+CUST02022,New,Mobile,Referral,West,25-34,No
+CUST02023,New,Desktop,Paid Search,West,25-34,No
+CUST02024,New,Desktop,Social Media,North,35-44,Yes
+CUST02025,Returning,Desktop,Organic Search,South,18-24,No
+CUST02026,Returning,Mobile,Social Media,North,25-34,No
+CUST02027,Loyal,Desktop,Email,West,45-54,No
+CUST02028,New,Desktop,Paid Search,Central,25-34,No
+CUST02029,Returning,Mobile,Email,North,35-44,Yes
+CUST02030,Returning,Mobile,Direct,West,25-34,No
+CUST02031,New,Desktop,Organic Search,East,25-34,Yes
+CUST02032,Returning,Mobile,Organic Search,North,35-44,Yes
+CUST02033,New,Desktop,Organic Search,South,25-34,No
+CUST02034,Returning,Mobile,Organic Search,Central,25-34,Yes
+CUST02035,New,Mobile,Organic Search,West,55+,No
+CUST02036,Loyal,Mobile,Email,East,45-54,No
+CUST02037,Loyal,Desktop,Organic Search,Central,35-44,No
+CUST02038,New,Desktop,Direct,North,18-24,No
+CUST02039,Returning,Mobile,Direct,East,18-24,No
+CUST02040,Returning,Mobile,Referral,East,18-24,No
+CUST02041,New,Mobile,Email,North,45-54,No
+CUST02042,Loyal,Mobile,Organic Search,South,45-54,No
+CUST02043,Returning,Tablet,Organic Search,West,25-34,No
+CUST02044,Loyal,Mobile,Paid Search,West,55+,Yes
+CUST02045,Loyal,Mobile,Referral,South,18-24,Yes
+CUST02046,New,Mobile,Referral,Central,25-34,Yes
+CUST02047,Returning,Tablet,Paid Search,North,18-24,No
+CUST02048,Returning,Mobile,Paid Search,North,25-34,Yes
+CUST02049,New,Desktop,Social Media,West,55+,No
+CUST02050,New,Mobile,Paid Search,East,45-54,No
+CUST02051,Loyal,Mobile,Referral,East,18-24,No
+CUST02052,New,Desktop,Organic Search,Central,25-34,No
+CUST02053,Returning,Mobile,Paid Search,East,35-44,No
+CUST02054,Loyal,Desktop,Social Media,Central,18-24,No
+CUST02055,New,Mobile,Organic Search,West,25-34,No
+CUST02056,Returning,Desktop,Paid Search,South,35-44,Yes
+CUST02057,Loyal,Desktop,Direct,Central,25-34,No
+CUST02058,Returning,Desktop,Organic Search,South,25-34,Yes
+CUST02059,New,Mobile,Social Media,South,25-34,Yes
+CUST02060,New,Desktop,Paid Search,West,45-54,Yes
+CUST02061,Loyal,Tablet,Organic Search,North,25-34,No
+CUST02062,New,Mobile,Organic Search,South,35-44,No
+CUST02063,Returning,Mobile,Paid Search,North,25-34,Yes
+CUST02064,New,Desktop,Organic Search,East,35-44,No
+CUST02065,Returning,Mobile,Paid Search,Central,18-24,Yes
+CUST02066,Loyal,Desktop,Direct,East,18-24,Yes
+CUST02067,Returning,Desktop,Direct,Central,35-44,No
+CUST02068,Loyal,Mobile,Referral,Central,35-44,No
+CUST02069,New,Mobile,Social Media,East,25-34,No
+CUST02070,Returning,Mobile,Email,South,25-34,Yes
+CUST02071,Loyal,Mobile,Email,South,55+,Yes
+CUST02072,Returning,Desktop,Organic Search,West,18-24,Yes
+CUST02073,New,Mobile,Paid Search,Central,18-24,No
+CUST02074,Loyal,Mobile,Social Media,East,25-34,No
+CUST02075,Returning,Desktop,Direct,West,25-34,No
+CUST02076,Returning,Mobile,Social Media,Central,35-44,No
+CUST02077,Loyal,Desktop,Organic Search,South,35-44,No
+CUST02078,New,Mobile,Referral,East,25-34,Yes
+CUST02079,New,Mobile,Organic Search,East,35-44,Yes
+CUST02080,New,Mobile,Referral,West,25-34,No
+CUST02081,Returning,Desktop,Direct,East,35-44,Yes
+CUST02082,New,Desktop,Direct,East,18-24,No
+CUST02083,Returning,Desktop,Direct,North,25-34,No
+CUST02084,New,Tablet,Organic Search,East,35-44,Yes
+CUST02085,Returning,Desktop,Email,West,25-34,No
+CUST02086,New,Desktop,Direct,West,18-24,No
+CUST02087,New,Mobile,Direct,Central,25-34,Yes
+CUST02088,New,Desktop,Paid Search,Central,35-44,No
+CUST02089,Returning,Desktop,Organic Search,Central,18-24,No
+CUST02090,Returning,Desktop,Paid Search,West,35-44,Yes
+CUST02091,New,Mobile,Social Media,North,35-44,Yes
+CUST02092,Loyal,Mobile,Social Media,North,35-44,Yes
+CUST02093,Returning,Desktop,Direct,Central,25-34,Yes
+CUST02094,New,Mobile,Direct,South,35-44,Yes
+CUST02095,Loyal,Mobile,Email,Central,25-34,Yes
+CUST02096,New,Tablet,Paid Search,North,45-54,No
+CUST02097,New,Mobile,Social Media,Central,35-44,No
+CUST02098,Returning,Mobile,Paid Search,South,18-24,No
+CUST02099,New,Mobile,Paid Search,South,35-44,No
+CUST02100,New,Mobile,Organic Search,South,25-34,No
+CUST02101,Returning,Desktop,Paid Search,West,25-34,No
+CUST02102,New,Desktop,Paid Search,South,25-34,No
+CUST02103,Loyal,Tablet,Social Media,West,35-44,No
+CUST02104,Loyal,Desktop,Organic Search,South,35-44,No
+CUST02105,Returning,Desktop,Paid Search,West,45-54,No
+CUST02106,Returning,Mobile,Organic Search,South,25-34,No
+CUST02107,Returning,Desktop,Email,North,35-44,Yes
+CUST02108,Loyal,Mobile,Social Media,South,35-44,Yes
+CUST02109,New,Mobile,Paid Search,West,35-44,No
+CUST02110,New,Tablet,Organic Search,South,25-34,Yes
+CUST02111,Returning,Desktop,Referral,Central,25-34,Yes
+CUST02112,Returning,Mobile,Social Media,East,35-44,Yes
+CUST02113,New,Desktop,Email,West,25-34,Yes
+CUST02114,Returning,Mobile,Social Media,South,25-34,No
+CUST02115,New,Mobile,Direct,Central,25-34,No
+CUST02116,Loyal,Mobile,Direct,South,25-34,Yes
+CUST02117,New,Mobile,Paid Search,North,18-24,No
+CUST02118,New,Mobile,Email,West,18-24,Yes
+CUST02119,New,Mobile,Organic Search,Central,35-44,No
+CUST02120,New,Mobile,Email,Central,55+,No
+CUST02121,New,Mobile,Paid Search,Central,25-34,Yes
+CUST02122,New,Tablet,Organic Search,West,18-24,No
+CUST02123,New,Desktop,Referral,North,45-54,Yes
+CUST02124,New,Desktop,Direct,West,25-34,No
+CUST02125,New,Mobile,Paid Search,Central,55+,No
+CUST02126,Returning,Desktop,Referral,Central,25-34,No
+CUST02127,New,Desktop,Paid Search,East,25-34,Yes
+CUST02128,New,Mobile,Social Media,West,25-34,No
+CUST02129,New,Mobile,Direct,North,25-34,No
+CUST02130,New,Mobile,Paid Search,North,35-44,No
+CUST02131,New,Mobile,Social Media,North,18-24,Yes
+CUST02132,Returning,Mobile,Email,West,45-54,No
+CUST02133,Loyal,Mobile,Organic Search,South,35-44,Yes
+CUST02134,Loyal,Mobile,Social Media,Central,45-54,Yes
+CUST02135,Returning,Desktop,Paid Search,Central,45-54,No
+CUST02136,Returning,Mobile,Email,North,25-34,No
+CUST02137,New,Mobile,Organic Search,Central,25-34,Yes
+CUST02138,Returning,Desktop,Paid Search,South,45-54,No
+CUST02139,Returning,Mobile,Direct,East,25-34,No
+CUST02140,Loyal,Mobile,Organic Search,South,18-24,No
+CUST02141,Loyal,Mobile,Social Media,West,25-34,No
+CUST02142,Returning,Mobile,Direct,South,25-34,No
+CUST02143,Returning,Mobile,Direct,South,45-54,No
+CUST02144,Loyal,Mobile,Organic Search,Central,25-34,Yes
+CUST02145,New,Mobile,Direct,Central,35-44,Yes
+CUST02146,Loyal,Tablet,Direct,Central,55+,No
+CUST02147,New,Desktop,Paid Search,North,25-34,Yes
+CUST02148,Loyal,Mobile,Direct,North,35-44,No
+CUST02149,Returning,Mobile,Direct,North,18-24,No
+CUST02150,New,Mobile,Email,Central,18-24,Yes
+CUST02151,Returning,Desktop,Social Media,West,18-24,Yes
+CUST02152,New,Desktop,Direct,North,25-34,No
+CUST02153,Returning,Mobile,Referral,South,25-34,No
+CUST02154,Loyal,Mobile,Social Media,East,25-34,No
+CUST02155,Returning,Mobile,Direct,South,25-34,Yes
+CUST02156,Loyal,Desktop,Direct,West,18-24,No
+CUST02157,New,Desktop,Direct,West,35-44,Yes
+CUST02158,New,Mobile,Referral,South,18-24,No
+CUST02159,Returning,Mobile,Organic Search,East,35-44,Yes
+CUST02160,New,Mobile,Organic Search,East,45-54,Yes
+CUST02161,Returning,Desktop,Social Media,North,35-44,No
+CUST02162,New,Desktop,Social Media,North,35-44,Yes
+CUST02163,Returning,Mobile,Social Media,East,35-44,No
+CUST02164,Returning,Mobile,Direct,West,35-44,Yes
+CUST02165,Loyal,Mobile,Referral,West,45-54,Yes
+CUST02166,New,Mobile,Paid Search,North,55+,Yes
+CUST02167,Loyal,Desktop,Direct,West,25-34,No
+CUST02168,Returning,Mobile,Organic Search,East,35-44,No
+CUST02169,New,Desktop,Social Media,North,35-44,Yes
+CUST02170,Returning,Mobile,Organic Search,Central,18-24,No
+CUST02171,Returning,Mobile,Social Media,North,25-34,No
+CUST02172,New,Mobile,Social Media,West,35-44,No
+CUST02173,Returning,Mobile,Direct,North,35-44,No
+CUST02174,New,Mobile,Email,East,25-34,No
+CUST02175,New,Desktop,Paid Search,West,25-34,No
+CUST02176,Returning,Mobile,Organic Search,North,18-24,No
+CUST02177,Returning,Mobile,Organic Search,North,25-34,No
+CUST02178,Loyal,Mobile,Referral,North,45-54,No
+CUST02179,New,Mobile,Referral,Central,45-54,Yes
+CUST02180,Loyal,Desktop,Paid Search,South,25-34,No
+CUST02181,Loyal,Tablet,Paid Search,East,25-34,No
+CUST02182,Loyal,Mobile,Social Media,North,35-44,No
+CUST02183,Loyal,Desktop,Email,North,35-44,No
+CUST02184,New,Desktop,Paid Search,East,25-34,No
+CUST02185,Returning,Tablet,Organic Search,West,25-34,No
+CUST02186,New,Mobile,Paid Search,Central,18-24,No
+CUST02187,Loyal,Mobile,Paid Search,West,35-44,No
+CUST02188,Returning,Mobile,Paid Search,North,35-44,Yes
+CUST02189,New,Desktop,Organic Search,West,25-34,No
+CUST02190,Loyal,Desktop,Email,East,45-54,Yes
+CUST02191,New,Mobile,Social Media,West,35-44,No
+CUST02192,Returning,Mobile,Paid Search,South,45-54,Yes
+CUST02193,Returning,Desktop,Social Media,Central,25-34,No
+CUST02194,New,Desktop,Social Media,South,25-34,No
+CUST02195,Returning,Mobile,Direct,Central,45-54,No
+CUST02196,Loyal,Desktop,Referral,South,55+,Yes
+CUST02197,New,Mobile,Organic Search,South,55+,No
+CUST02198,Returning,Mobile,Direct,North,45-54,Yes
+CUST02199,New,Mobile,Email,East,25-34,No
+CUST02200,Returning,Desktop,Email,North,25-34,Yes
+CUST02201,New,Tablet,Paid Search,Central,25-34,No
+CUST02202,Loyal,Mobile,Paid Search,North,45-54,No
+CUST02203,Loyal,Mobile,Organic Search,South,25-34,No
+CUST02204,New,Mobile,Referral,East,35-44,No
+CUST02205,New,Mobile,Email,West,45-54,Yes
+CUST02206,Returning,Mobile,Paid Search,West,55+,No
+CUST02207,Returning,Mobile,Social Media,West,55+,Yes
+CUST02208,Returning,Mobile,Organic Search,Central,25-34,No
+CUST02209,New,Mobile,Organic Search,North,25-34,No
+CUST02210,New,Mobile,Email,South,55+,No
+CUST02211,Loyal,Desktop,Social Media,South,25-34,Yes
+CUST02212,Returning,Mobile,Direct,North,18-24,No
+CUST02213,Loyal,Mobile,Email,Central,55+,No
+CUST02214,Returning,Desktop,Email,West,35-44,Yes
+CUST02215,Loyal,Mobile,Direct,East,25-34,No
+CUST02216,New,Mobile,Organic Search,South,18-24,Yes
+CUST02217,New,Mobile,Email,South,25-34,Yes
+CUST02218,Loyal,Mobile,Direct,West,55+,No
+CUST02219,Loyal,Mobile,Paid Search,Central,35-44,Yes
+CUST02220,New,Mobile,Organic Search,East,25-34,Yes
+CUST02221,New,Mobile,Organic Search,West,25-34,No
+CUST02222,Returning,Mobile,Organic Search,East,45-54,No
+CUST02223,Returning,Mobile,Social Media,East,45-54,Yes
+CUST02224,New,Mobile,Organic Search,South,25-34,Yes
+CUST02225,Loyal,Mobile,Email,South,35-44,No
+CUST02226,New,Mobile,Organic Search,South,25-34,No
+CUST02227,Returning,Desktop,Organic Search,Central,25-34,No
+CUST02228,New,Mobile,Paid Search,East,25-34,No
+CUST02229,New,Mobile,Organic Search,South,25-34,No
+CUST02230,Returning,Mobile,Referral,East,25-34,No
+CUST02231,New,Mobile,Paid Search,Central,25-34,No
+CUST02232,Returning,Desktop,Organic Search,South,25-34,Yes
+CUST02233,New,Mobile,Organic Search,South,18-24,Yes
+CUST02234,Loyal,Mobile,Paid Search,North,18-24,Yes
+CUST02235,Returning,Desktop,Email,West,35-44,No
+CUST02236,Loyal,Desktop,Direct,South,25-34,No
+CUST02237,New,Desktop,Paid Search,Central,18-24,No
+CUST02238,New,Mobile,Email,East,55+,Yes
+CUST02239,New,Mobile,Social Media,Central,25-34,No
+CUST02240,Returning,Desktop,Direct,South,45-54,No
+CUST02241,New,Mobile,Social Media,East,35-44,Yes
+CUST02242,New,Mobile,Paid Search,Central,35-44,No
+CUST02243,New,Desktop,Email,East,25-34,No
+CUST02244,New,Mobile,Direct,South,18-24,No
+CUST02245,Returning,Mobile,Social Media,East,45-54,No
+CUST02246,New,Mobile,Referral,East,45-54,No
+CUST02247,New,Mobile,Direct,South,25-34,Yes
+CUST02248,Returning,Mobile,Organic Search,South,35-44,No
+CUST02249,Returning,Desktop,Direct,South,25-34,Yes
+CUST02250,New,Mobile,Email,West,45-54,No
+CUST02251,Returning,Mobile,Social Media,Central,35-44,No
+CUST02252,Returning,Mobile,Social Media,East,18-24,Yes
+CUST02253,New,Mobile,Direct,Central,45-54,No
+CUST02254,Returning,Mobile,Email,West,55+,Yes
+CUST02255,Loyal,Desktop,Social Media,South,35-44,Yes
+CUST02256,Returning,Mobile,Organic Search,Central,18-24,No
+CUST02257,Loyal,Mobile,Social Media,West,35-44,Yes
+CUST02258,Loyal,Tablet,Direct,North,35-44,No
+CUST02259,New,Mobile,Direct,Central,25-34,Yes
+CUST02260,Returning,Tablet,Organic Search,Central,45-54,No
+CUST02261,Returning,Mobile,Direct,West,25-34,No
+CUST02262,Loyal,Mobile,Direct,North,45-54,No
+CUST02263,Returning,Desktop,Social Media,West,35-44,No
+CUST02264,New,Mobile,Organic Search,North,25-34,No
+CUST02265,Returning,Mobile,Social Media,West,55+,Yes
+CUST02266,New,Mobile,Organic Search,East,25-34,No
+CUST02267,Returning,Desktop,Paid Search,Central,25-34,No
+CUST02268,Returning,Mobile,Email,South,25-34,Yes
+CUST02269,Returning,Mobile,Direct,North,18-24,No
+CUST02270,Loyal,Desktop,Paid Search,East,35-44,No
+CUST02271,Returning,Desktop,Direct,East,25-34,No
+CUST02272,Returning,Mobile,Direct,North,45-54,No
+CUST02273,Returning,Mobile,Organic Search,South,55+,No
+CUST02274,Loyal,Mobile,Paid Search,West,35-44,Yes
+CUST02275,Loyal,Mobile,Email,South,25-34,Yes
+CUST02276,New,Mobile,Direct,West,35-44,Yes
+CUST02277,Returning,Mobile,Paid Search,East,18-24,No
+CUST02278,New,Mobile,Email,North,45-54,Yes
+CUST02279,Loyal,Mobile,Email,East,25-34,No
+CUST02280,Returning,Desktop,Direct,East,45-54,No
+CUST02281,Returning,Mobile,Direct,East,25-34,No
+CUST02282,New,Tablet,Organic Search,West,25-34,Yes
+CUST02283,New,Desktop,Organic Search,North,55+,Yes
+CUST02284,Returning,Mobile,Organic Search,Central,25-34,No
+CUST02285,New,Tablet,Referral,West,45-54,No
+CUST02286,New,Desktop,Direct,East,45-54,No
+CUST02287,Loyal,Mobile,Direct,East,25-34,No
+CUST02288,Returning,Desktop,Organic Search,West,25-34,No
+CUST02289,New,Mobile,Social Media,West,25-34,Yes
+CUST02290,New,Desktop,Organic Search,West,45-54,No
+CUST02291,Loyal,Mobile,Paid Search,Central,55+,Yes
+CUST02292,Returning,Mobile,Paid Search,West,25-34,No
+CUST02293,Returning,Mobile,Direct,South,35-44,Yes
+CUST02294,New,Tablet,Organic Search,South,25-34,Yes
+CUST02295,New,Mobile,Email,East,35-44,Yes
+CUST02296,New,Mobile,Referral,West,35-44,No
+CUST02297,Returning,Mobile,Email,North,45-54,No
+CUST02298,New,Mobile,Organic Search,North,25-34,Yes
+CUST02299,New,Desktop,Direct,East,25-34,No
+CUST02300,Returning,Desktop,Email,South,25-34,Yes
+CUST02301,Loyal,Mobile,Social Media,West,18-24,Yes
+CUST02302,Returning,Mobile,Email,West,25-34,No
+CUST02303,Returning,Mobile,Direct,South,45-54,Yes
+CUST02304,Returning,Mobile,Social Media,Central,25-34,No
+CUST02305,Returning,Desktop,Social Media,Central,25-34,No
+CUST02306,New,Desktop,Social Media,Central,35-44,Yes
+CUST02307,Returning,Mobile,Organic Search,North,25-34,No
+CUST02308,Returning,Mobile,Direct,East,25-34,No
+CUST02309,Returning,Mobile,Organic Search,West,45-54,No
+CUST02310,Loyal,Mobile,Paid Search,West,18-24,No
+CUST02311,Loyal,Mobile,Paid Search,West,25-34,Yes
+CUST02312,New,Desktop,Paid Search,West,25-34,Yes
+CUST02313,Returning,Mobile,Paid Search,East,25-34,No
+CUST02314,New,Tablet,Email,East,25-34,No
+CUST02315,New,Mobile,Paid Search,South,25-34,No
+CUST02316,New,Mobile,Organic Search,North,25-34,No
+CUST02317,New,Mobile,Direct,East,45-54,No
+CUST02318,Returning,Mobile,Referral,North,25-34,Yes
+CUST02319,Returning,Mobile,Social Media,Central,25-34,No
+CUST02320,Loyal,Mobile,Paid Search,North,25-34,No
+CUST02321,New,Desktop,Organic Search,West,55+,No
+CUST02322,New,Mobile,Organic Search,West,18-24,Yes
+CUST02323,Returning,Desktop,Paid Search,West,45-54,No
+CUST02324,New,Desktop,Referral,West,25-34,No
+CUST02325,New,Mobile,Direct,Central,55+,No
+CUST02326,Loyal,Mobile,Paid Search,Central,25-34,No
+CUST02327,New,Mobile,Referral,West,18-24,No
+CUST02328,New,Mobile,Social Media,Central,25-34,No
+CUST02329,Returning,Desktop,Paid Search,Central,25-34,No
+CUST02330,Returning,Desktop,Social Media,East,35-44,Yes
+CUST02331,Returning,Mobile,Organic Search,North,35-44,No
+CUST02332,New,Mobile,Direct,South,35-44,Yes
+CUST02333,Loyal,Desktop,Paid Search,North,18-24,No
+CUST02334,New,Desktop,Email,North,35-44,No
+CUST02335,Returning,Mobile,Paid Search,North,25-34,No
+CUST02336,Returning,Desktop,Direct,South,55+,No
+CUST02337,Loyal,Mobile,Email,West,35-44,No
+CUST02338,New,Mobile,Social Media,North,35-44,No
+CUST02339,Returning,Mobile,Organic Search,West,45-54,No
+CUST02340,New,Mobile,Direct,Central,35-44,No
+CUST02341,New,Desktop,Social Media,East,25-34,Yes
+CUST02342,New,Mobile,Paid Search,East,25-34,No
+CUST02343,Returning,Mobile,Direct,East,35-44,No
+CUST02344,New,Mobile,Organic Search,West,25-34,Yes
+CUST02345,Returning,Mobile,Paid Search,South,18-24,No
+CUST02346,New,Mobile,Social Media,Central,45-54,No
+CUST02347,Loyal,Mobile,Paid Search,North,18-24,No
+CUST02348,Loyal,Desktop,Social Media,East,35-44,No
+CUST02349,New,Mobile,Paid Search,West,18-24,No
+CUST02350,New,Desktop,Organic Search,East,25-34,No
+CUST02351,New,Mobile,Organic Search,North,45-54,No
+CUST02352,Loyal,Desktop,Organic Search,South,18-24,Yes
+CUST02353,New,Desktop,Referral,East,35-44,No
+CUST02354,Returning,Mobile,Social Media,South,35-44,Yes
+CUST02355,Returning,Mobile,Social Media,West,45-54,Yes
+CUST02356,Loyal,Tablet,Paid Search,South,18-24,No
+CUST02357,Returning,Mobile,Email,Central,35-44,Yes
+CUST02358,Returning,Desktop,Organic Search,South,25-34,No
+CUST02359,Loyal,Mobile,Paid Search,South,25-34,No
+CUST02360,New,Mobile,Email,South,25-34,Yes
+CUST02361,Loyal,Mobile,Social Media,East,25-34,No
+CUST02362,New,Desktop,Direct,East,25-34,No
+CUST02363,Returning,Mobile,Direct,West,18-24,No
+CUST02364,Loyal,Desktop,Direct,South,25-34,No
+CUST02365,Returning,Desktop,Organic Search,South,35-44,No
+CUST02366,Returning,Mobile,Organic Search,South,25-34,Yes
+CUST02367,New,Mobile,Organic Search,West,18-24,Yes
+CUST02368,Returning,Mobile,Direct,Central,25-34,No
+CUST02369,New,Mobile,Direct,North,25-34,Yes
+CUST02370,Returning,Desktop,Referral,West,35-44,No
+CUST02371,Returning,Mobile,Paid Search,South,45-54,No
+CUST02372,New,Mobile,Direct,East,25-34,No
+CUST02373,New,Desktop,Social Media,North,35-44,No
+CUST02374,New,Mobile,Direct,South,18-24,No
+CUST02375,New,Mobile,Social Media,South,55+,Yes
+CUST02376,New,Mobile,Organic Search,West,25-34,No
+CUST02377,Loyal,Mobile,Organic Search,East,25-34,No
+CUST02378,Returning,Desktop,Referral,East,25-34,Yes
+CUST02379,New,Mobile,Social Media,East,18-24,No
+CUST02380,Returning,Mobile,Paid Search,Central,35-44,No
+CUST02381,Loyal,Mobile,Paid Search,South,25-34,Yes
+CUST02382,New,Mobile,Paid Search,North,25-34,No
+CUST02383,New,Mobile,Referral,North,18-24,No
+CUST02384,New,Mobile,Organic Search,West,55+,Yes
+CUST02385,New,Desktop,Organic Search,East,35-44,No
+CUST02386,Returning,Desktop,Direct,East,45-54,Yes
+CUST02387,Loyal,Mobile,Social Media,South,45-54,Yes
+CUST02388,New,Desktop,Organic Search,East,45-54,Yes
+CUST02389,Returning,Mobile,Organic Search,East,25-34,No
+CUST02390,New,Tablet,Organic Search,South,18-24,Yes
+CUST02391,Returning,Mobile,Paid Search,North,25-34,Yes
+CUST02392,Returning,Mobile,Organic Search,North,25-34,No
+CUST02393,New,Mobile,Organic Search,West,35-44,No
+CUST02394,New,Mobile,Direct,East,18-24,Yes
+CUST02395,Returning,Desktop,Direct,North,18-24,Yes
+CUST02396,Loyal,Mobile,Direct,West,35-44,No
+CUST02397,New,Mobile,Paid Search,North,18-24,No
+CUST02398,New,Mobile,Paid Search,East,18-24,No
+CUST02399,New,Desktop,Referral,West,18-24,Yes
+CUST02400,Returning,Desktop,Direct,East,35-44,No
+CUST02401,Returning,Mobile,Social Media,North,18-24,No
+CUST02402,Loyal,Mobile,Paid Search,West,18-24,Yes
+CUST02403,Returning,Mobile,Paid Search,West,25-34,Yes
+CUST02404,Loyal,Desktop,Social Media,North,35-44,No
+CUST02405,Loyal,Desktop,Social Media,North,25-34,No
+CUST02406,New,Mobile,Organic Search,West,18-24,Yes
+CUST02407,Returning,Desktop,Referral,South,45-54,No
+CUST02408,New,Mobile,Social Media,West,45-54,No
+CUST02409,New,Desktop,Social Media,West,18-24,No
+CUST02410,Loyal,Mobile,Organic Search,North,25-34,Yes
+CUST02411,Returning,Mobile,Direct,East,18-24,No
+CUST02412,Loyal,Mobile,Direct,North,35-44,No
+CUST02413,Returning,Mobile,Organic Search,North,25-34,No
+CUST02414,Returning,Tablet,Email,East,45-54,No
+CUST02415,Returning,Mobile,Email,North,45-54,No
+CUST02416,New,Desktop,Direct,East,35-44,Yes
+CUST02417,New,Desktop,Organic Search,South,18-24,No
+CUST02418,Returning,Desktop,Direct,East,45-54,No
+CUST02419,New,Desktop,Social Media,East,35-44,No
+CUST02420,Loyal,Mobile,Organic Search,West,35-44,No
+CUST02421,New,Mobile,Organic Search,South,18-24,No
+CUST02422,New,Mobile,Organic Search,South,35-44,No
+CUST02423,Returning,Mobile,Paid Search,North,35-44,Yes
+CUST02424,New,Desktop,Social Media,East,55+,Yes
+CUST02425,Loyal,Mobile,Direct,West,35-44,No
+CUST02426,Returning,Mobile,Organic Search,South,25-34,No
+CUST02427,New,Mobile,Referral,East,25-34,No
+CUST02428,Returning,Mobile,Organic Search,South,35-44,No
+CUST02429,Returning,Desktop,Email,West,45-54,No
+CUST02430,Returning,Mobile,Referral,East,35-44,Yes
+CUST02431,Loyal,Desktop,Direct,South,25-34,Yes
+CUST02432,Returning,Desktop,Email,East,18-24,Yes
+CUST02433,Returning,Desktop,Direct,West,35-44,Yes
+CUST02434,New,Mobile,Organic Search,East,45-54,No
+CUST02435,Returning,Desktop,Organic Search,North,18-24,No
+CUST02436,Loyal,Mobile,Social Media,East,25-34,Yes
+CUST02437,Returning,Mobile,Organic Search,East,55+,No
+CUST02438,Returning,Desktop,Paid Search,North,25-34,No
+CUST02439,Returning,Desktop,Organic Search,Central,25-34,No
+CUST02440,Returning,Mobile,Direct,East,25-34,Yes
+CUST02441,Loyal,Desktop,Direct,North,25-34,Yes
+CUST02442,New,Mobile,Direct,Central,18-24,No
+CUST02443,New,Mobile,Direct,West,35-44,Yes
+CUST02444,Returning,Tablet,Organic Search,North,35-44,Yes
+CUST02445,Returning,Mobile,Organic Search,Central,35-44,Yes
+CUST02446,Returning,Desktop,Email,South,35-44,No
+CUST02447,New,Mobile,Email,West,18-24,Yes
+CUST02448,Returning,Desktop,Paid Search,South,18-24,No
+CUST02449,Returning,Desktop,Social Media,South,18-24,Yes
+CUST02450,Returning,Desktop,Social Media,North,18-24,Yes
+CUST02451,Returning,Mobile,Paid Search,North,35-44,No
+CUST02452,Returning,Desktop,Paid Search,Central,18-24,Yes
+CUST02453,Returning,Mobile,Paid Search,Central,35-44,Yes
+CUST02454,Loyal,Tablet,Email,Central,18-24,No
+CUST02455,Returning,Mobile,Referral,South,18-24,Yes
+CUST02456,Returning,Mobile,Social Media,West,18-24,No
+CUST02457,Returning,Desktop,Direct,East,25-34,Yes
+CUST02458,New,Mobile,Direct,East,35-44,No
+CUST02459,New,Mobile,Organic Search,Central,45-54,No
+CUST02460,Returning,Desktop,Email,West,18-24,Yes
+CUST02461,Loyal,Mobile,Social Media,East,35-44,Yes
+CUST02462,Returning,Mobile,Social Media,West,35-44,No
+CUST02463,New,Mobile,Organic Search,East,25-34,No
+CUST02464,Returning,Mobile,Direct,North,18-24,No
+CUST02465,New,Mobile,Referral,North,18-24,No
+CUST02466,Returning,Mobile,Organic Search,West,18-24,Yes
+CUST02467,Loyal,Mobile,Organic Search,South,45-54,No
+CUST02468,Returning,Mobile,Organic Search,North,25-34,Yes
+CUST02469,Returning,Mobile,Direct,Central,25-34,No
+CUST02470,New,Desktop,Email,South,35-44,Yes
+CUST02471,Returning,Desktop,Organic Search,East,25-34,No
+CUST02472,Loyal,Mobile,Direct,West,35-44,Yes
+CUST02473,Returning,Mobile,Paid Search,South,18-24,No
+CUST02474,Returning,Desktop,Social Media,North,25-34,No
+CUST02475,New,Mobile,Paid Search,South,18-24,No
+CUST02476,New,Mobile,Social Media,West,25-34,No
+CUST02477,New,Mobile,Social Media,East,25-34,No
+CUST02478,New,Mobile,Paid Search,South,35-44,No
+CUST02479,New,Desktop,Social Media,South,35-44,Yes
+CUST02480,Loyal,Desktop,Direct,South,35-44,No
+CUST02481,Returning,Desktop,Social Media,North,18-24,No
+CUST02482,New,Mobile,Direct,East,55+,No
+CUST02483,New,Mobile,Social Media,South,18-24,No
+CUST02484,New,Mobile,Direct,South,45-54,No
+CUST02485,Loyal,Mobile,Paid Search,South,35-44,No
+CUST02486,Returning,Mobile,Direct,East,35-44,No
+CUST02487,Returning,Desktop,Paid Search,South,25-34,No
+CUST02488,Loyal,Mobile,Organic Search,South,35-44,No
+CUST02489,New,Desktop,Organic Search,Central,35-44,No
+CUST02490,Returning,Mobile,Organic Search,North,18-24,No
+CUST02491,Loyal,Mobile,Referral,South,35-44,No
+CUST02492,Returning,Desktop,Referral,North,18-24,No
+CUST02493,New,Desktop,Direct,South,25-34,No
+CUST02494,Loyal,Mobile,Organic Search,South,35-44,No
+CUST02495,Loyal,Mobile,Direct,South,45-54,No
+CUST02496,Returning,Mobile,Direct,Central,25-34,No
+CUST02497,Returning,Mobile,Paid Search,East,25-34,No
+CUST02498,New,Mobile,Social Media,South,25-34,No
+CUST02499,Loyal,Mobile,Email,South,25-34,Yes
+CUST02500,Returning,Mobile,Organic Search,North,25-34,No
